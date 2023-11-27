@@ -1,0 +1,27 @@
+{
+  "folder": "apBHO24jw6SlmTmk",
+  "name": "Death Defy",
+  "type": "Ability",
+  "_id": "MVTqbSPsBvVHN3E4",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Once per assignment, when you should take 1 or more marks from an enemy, you instead escape unscathed. Describe how your quick thinking keeps you safe from harm.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701118880997,
+    "modifiedTime": 1701118883027,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!MVTqbSPsBvVHN3E4"
+}

@@ -1,0 +1,27 @@
+{
+  "folder": "afQN9FzKCimXAThh",
+  "name": "Dissection",
+  "type": "Ability",
+  "_id": "gHxKB6q4Fkz1XRIP",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When you make a Focus roll to dissect a piece of organic matter affected by bleed, gild an additional die. You cannot take Bleed marks from this inspection.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701118638561,
+    "modifiedTime": 1701118644739,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!gHxKB6q4Fkz1XRIP"
+}

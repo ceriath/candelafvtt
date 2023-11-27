@@ -1,0 +1,27 @@
+{
+  "folder": "FZYxthrdGtyzcFcu",
+  "name": "Play the Bait",
+  "type": "Ability",
+  "_id": "rKvMz8MnCJOdHZnJ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You know how to draw the attention of a phenomenon—you just have to play the bait. Make a Sense roll to bring a nearby phenomenon toward you</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701119135309,
+    "modifiedTime": 1701119139470,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!rKvMz8MnCJOdHZnJ"
+}

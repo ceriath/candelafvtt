@@ -1,0 +1,219 @@
+{
+  "Actor": {
+    "types": [
+      "Character",
+      "Circle"
+    ],
+    "htmlFields": [
+      "biography"
+    ],
+    "Character": {
+      "background": "",
+      "health": {
+        "value": 10,
+        "min": 0,
+        "max": 10
+      },
+      "power": {
+        "value": 5,
+        "min": 0,
+        "max": 5
+      },
+      "attributes": {},
+      "role": "",
+      "specialty": "",
+      "pronouns": "",
+      "circle": {
+        "uuid": "",
+        "name": ""
+      },
+      "catalyst": "",
+      "style": "",
+      "question": "",
+      "actionCategories": {
+        "nerve": {
+          "drives": {
+            "value": 0,
+            "max": 0
+          },
+          "resistance": {
+            "value": 0,
+            "max": 0
+          },
+          "actions": {
+            "move": {
+              "value": 0,
+              "gilded": false
+            },
+            "strike": {
+              "value": 0,
+              "gilded": false
+            },
+            "control": {
+              "value": 0,
+              "gilded": false
+            }
+          }
+        },
+        "cunning": {
+          "drives": {
+            "value": 0,
+            "max": 0
+          },
+          "resistance": {
+            "value": 0,
+            "max": 0
+          },
+          "actions": {
+            "sway": {
+              "value": 0,
+              "gilded": false
+            },
+            "read": {
+              "value": 0,
+              "gilded": false
+            },
+            "hide": {
+              "value": 0,
+              "gilded": false
+            }
+          }
+        },
+        "intuition": {
+          "drives": {
+            "value": 0,
+            "max": 0
+          },
+          "resistance": {
+            "value": 0,
+            "max": 0
+          },
+          "actions": {
+            "survey": {
+              "value": 0,
+              "gilded": false
+            },
+            "focus": {
+              "value": 0,
+              "gilded": false
+            },
+            "sense": {
+              "value": 0,
+              "gilded": false
+            }
+          }
+        }
+      },
+      "marks": {
+        "body": {
+          "value": 0,
+          "max": 3
+        },
+        "brain": {
+          "value": 0,
+          "max": 3
+        },
+        "bleed": {
+          "value": 0,
+          "max": 3
+        }
+      },
+      "relationships": "",
+      "scars": "",
+      "illuminationKeys": [
+        {
+          "key": ""
+        }
+      ]
+    },
+    "Circle": {
+      "name": "",
+      "chapterHouse": "",
+      "color": "",
+      "members": [],
+      "tone": "",
+      "biography": "",
+      "abilities": [],
+      "illumination": {
+        "value": -1,
+        "max": 24
+      },
+      "resources": {
+        "stitch": {
+          "value": 0,
+          "max": 0
+        },
+        "refresh": {
+          "value": 0,
+          "max": 0
+        },
+        "train": {
+          "value": 0,
+          "max": 0
+        }
+      },
+      "gear": [
+        ""
+      ]
+    }
+  },
+  "Item": {
+    "types": [
+      "Ability",
+      "Gear",
+      "Role",
+      "Specialty"
+    ],
+    "templates": {
+      "base": {
+        "description": ""
+      }
+    },
+    "Gear": {
+      "templates": [
+        "base"
+      ]
+    },
+    "Ability": {
+      "templates": [
+        "base"
+      ],
+      "subtype": ""
+    },
+    "Role": {
+      "templates": [
+        "base"
+      ],
+      "identifier": ""
+    },
+    "Specialty": {
+      "templates": [
+        "base"
+      ],
+      "identifier": "",
+      "roleIdentifier": "",
+      "drives": {
+        "nerve": 0,
+        "cunning": 0,
+        "intuition": 0
+      },
+      "actionRatings": {
+        "nerve":{
+          "move": 0,
+          "strike": 0,
+          "control": 0
+        },
+        "cunning": {
+          "sway": 0,
+          "read": 0,
+          "hide": 0
+        },
+        "intuition": {
+          "survey": 0,
+          "focus": 0,
+          "sense": 0
+        }
+      }
+    }
+  }
+}

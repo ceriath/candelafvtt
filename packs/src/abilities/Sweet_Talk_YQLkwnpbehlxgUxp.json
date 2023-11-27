@@ -1,0 +1,27 @@
+{
+  "folder": "5CsAZLTQ6PObk7xZ",
+  "name": "Sweet Talk",
+  "type": "Ability",
+  "_id": "YQLkwnpbehlxgUxp",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You know how to work the room. After you make small talk with someone, you may add +1d on any Read rolls you make in which they are the target. If your current Cunning resistance is 2 or higher, that die is gilded.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701118094412,
+    "modifiedTime": 1701118103723,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!YQLkwnpbehlxgUxp"
+}

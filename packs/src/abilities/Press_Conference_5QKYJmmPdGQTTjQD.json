@@ -1,0 +1,27 @@
+{
+  "folder": "IvFtRXkiLPOqzKy4",
+  "name": "Press Conference",
+  "type": "Ability",
+  "_id": "5QKYJmmPdGQTTjQD",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You can spend 1 Cunning to gather a large group of people together to make announcements, ask questions, or stage a distraction. All Cunning rolls you make at this assembly take +1d.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701118202779,
+    "modifiedTime": 1701118206253,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!5QKYJmmPdGQTTjQD"
+}

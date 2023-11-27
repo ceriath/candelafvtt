@@ -1,0 +1,109 @@
+@mixin element-invisible {
+  position: absolute;
+
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+@mixin hide {
+  display: none;
+}
+
+@mixin centerer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/// Mixin to place items on a circle
+/// @author Kitty Giraudel
+/// @author Ana Tudor
+/// @param {Integer} $item-count - Number of items on the circle
+/// @param {Length} $circle-size - Large circle size
+/// @param {Length} $item-size - Single item size
+@mixin on-circle-old($item-count, $circle-size, $item-size) {
+  position: relative;
+  width: $circle-size;
+  height: $circle-size;
+  padding: 0;
+  border-radius: 50%;
+  list-style: none;
+
+  > * {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: $item-size;
+    height: $item-size;
+    margin: -($item-size / 2);
+
+    $angle: (360 / $item-count);
+    $rot: 0;
+
+    @for $i from 1 through $item-count {
+      &:nth-of-type(#{$i}) {
+        transform: rotate($rot * 1deg) translate($circle-size / 2) rotate($rot * -1deg);
+      }
+
+      $rot: $rot + $angle;
+    }
+  }
+}
+
+/// Mixin to place items on a circle responsively
+/// $author Sơn Trần-Nguyễn
+/// $author Hugo Giraudel
+/// $author Ana Tudor
+/// $param {percentage} [$item-size=20%] - Size of a single item as percentage of the circle.
+/// $param {integer} [$max-items=8] - Max number of items to be placed on the circle
+@mixin circle-blackmagic($item-size: 10%, $max-items: 32) {
+  $radius: math.div(100% * 50%, $item-size) + $item-size;
+
+  & > * {
+    display: block;
+    position: absolute;
+    // Move the items to center of the listing.
+    top: 50%;
+    left: 50%;
+    width: $item-size;
+    height: $item-size;
+    // Offset half the size so they are truly centered.
+    // Usually we use negative translation with transform,
+    // but transform is used for positioning them, so we
+    // use negative margin instead.
+    margin: -1 * math.div($item-size, 2);
+
+    // First one is always at the top.
+    &:nth-of-type(1) {
+      transform: rotate(270deg) translate($radius) rotate(90deg);
+    }
+
+    // Supports number of items from 1 to $max-items.
+    @for $index from 0 to $max-items + 1 {
+      @include circle-witchery($radius, $index);
+    }
+  }
+}
+
+@mixin circle-witchery($radius, $item-count) {
+  $angle: math.div(360, $item-count + 1);
+
+  &:nth-last-child(#{$item-count + 1}):first-child {
+    @for $index from 0 through $item-count {
+      $i: $index + 1;
+      $rot: $angle * ($i);
+
+      & ~ :nth-of-type(#{$i}) {
+        transform: rotate($rot * 1deg + 270deg % 360deg) translate($radius) rotate($rot * -1deg + 90deg);
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "CANDELAFVTT.nerve": "Nerven",
+  "CANDELAFVTT.move": "Bewegung",
+  "CANDELAFVTT.move-description": "laufen, ausweichen, navigieren",
+  "CANDELAFVTT.strike": "Angreifen",
+  "CANDELAFVTT.strike-description": "schlagen, zerbrechen, niederschlagen",
+  "CANDELAFVTT.control": "Kontrollieren",
+  "CANDELAFVTT.control-description": "fahren, schießen, finesse",
+
+  "CANDELAFVTT.cunning": "Gerissenheit",
+  "CANDELAFVTT.sway": "Ausstrahlung",
+  "CANDELAFVTT.sway-description": "überzeugen, befehlen, gesellschaftlicher Umgang",
+  "CANDELAFVTT.read": "Durchschauen",
+  "CANDELAFVTT.read-description": "Körpersprache deuten, Lügen erkennen, Motive erfassen",
+  "CANDELAFVTT.hide": "Verstecken",
+  "CANDELAFVTT.hide-description": "anschleichen, ablenken, Taschenspielertricks",
+  
+  "CANDELAFVTT.intuition": "Intuition",
+  "CANDELAFVTT.survey": "Auffassungsgabe",
+  "CANDELAFVTT.survey-description": "suchen, verfolgen, entdecken",
+  "CANDELAFVTT.focus": "Fokus",
+  "CANDELAFVTT.focus-Beschreibung": "inspizieren, analysieren, erinnern",
+  "CANDELAFVTT.sense": "Sinn",
+  "CANDELAFVTT.sense-Beschreibung": "einstimmen, kanalisieren, offenbaren",
+
+  "CANDELAFVTT.members": "Mitglieder",
+
+  "CANDELAFVTT.stitch": "Stiche",
+  "CANDELAFVTT.refresh": "Erfrischungen",
+  "CANDELAFVTT.train": "Training",
+
+  "CANDELAFVTT.brain": "Geist",
+  "CANDELAFVTT.body": "Körper",
+  "CANDELAFVTT.bleed": "Bleed",
+
+  "CANDELAFVTT.drives": "Antriebe",
+  "CANDELAFVTT.resistances": "Resistenzen",
+  "CANDELAFVTT.abilities": "Fähigkeiten",
+  "CANDELAFVTT.illumination": "Erleuchtung",
+  "CANDELAFVTT.gear": "Ausrüstung",
+  "CANDELAFVTT.actions": "Aktionen",
+  "CANDELAFVTT.biography": "Biographie",
+  "CANDELAFVTT.marks": "Spuren",
+  "CANDELAFVTT.scars": "Narben",
+  "CANDELAFVTT.style": "Stil",
+  "CANDELAFVTT.catalyst": "Katalysator",
+  "CANDELAFVTT.question": "Fragen",
+  "CANDELAFVTT.background": "Hintergrund",
+
+  "CANDELAFVTT.abilities-description": "Wähle eine bei der Charaktererschaffung und eine weitere jedes Mal, wenn dein Kreis fortschreitet",
+  "CANDELAFVTT.illumination-description": "Bei vollständiger Erleuchtung, setze sie zurück. Jeder übrig gebliebene Erleuchtungspunkt zählt für deinen nächsten Aufstiegszyklus. Wähle dann eine neue Kreis-Fähigkeit, und alle Spieler können ihre Charakter-Fortschrittsoptionen wählen. Die roten Kreise stellen Meilensteine dar, die mechanische Vorteile haben können, je nachdem, welche Fähigkeiten dein Kreis wählt.",
+
+  "CANDELAFVTT.driveBonus": "Antriebe hinzufügen",
+  "CANDELAFVTT.driveBonusDescription": "Füge zusätzliche Antriebe von dir oder deinen Mitspielern hinzu",
+  "CANDELAFVTT.roll": "Teste dein Glück!",
+
+  "CANDELAFVTT.errors-invalid-spec": "Die gewählte Spezialisierung ist für die gewählte Rolle ungültig!"
+
+}

@@ -1,0 +1,50 @@
+{
+  "folder": "SROyf6IfgUWooT9v",
+  "name": "Criminal",
+  "type": "Specialty",
+  "_id": "QSZMec5lxweOYtOG",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You are an accomplished outlaw who knows how to operate successfully in the underworld. Your primary drive is Cunning, and your abilities are focused on street connections and nefarious activities.</p>",
+    "identifier": "criminal",
+    "roleIdentifier": "slink",
+    "drives": {
+      "nerve": 1,
+      "cunning": 2,
+      "intuition": 0
+    },
+    "actionRatings": {
+      "nerve": {
+        "move": 0,
+        "strike": 0,
+        "control": 1
+      },
+      "cunning": {
+        "sway": 0,
+        "read": 0,
+        "hide": 2
+      },
+      "intuition": {
+        "survey": 1,
+        "focus": 1,
+        "sense": 0
+      }
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1695079512173,
+    "modifiedTime": 1701119780382,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!QSZMec5lxweOYtOG"
+}

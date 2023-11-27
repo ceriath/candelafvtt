@@ -1,0 +1,50 @@
+{
+  "folder": "602ycd03tDxYTFsE",
+  "name": "Professor",
+  "type": "Specialty",
+  "_id": "Qhken1plnl053Gl8",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You are a professional academic who knows a great deal about your chosen field of study. Your primary drive is Cunning, and your abilities are focused on critical thinking and leveraging your expertise.</p>",
+    "identifier": "professor",
+    "roleIdentifier": "scholar",
+    "drives": {
+      "nerve": 0,
+      "cunning": 2,
+      "intuition": 1
+    },
+    "actionRatings": {
+      "nerve": {
+        "move": 0,
+        "strike": 0,
+        "control": 0
+      },
+      "cunning": {
+        "sway": 1,
+        "read": 0,
+        "hide": 0
+      },
+      "intuition": {
+        "survey": 2,
+        "focus": 2,
+        "sense": 0
+      }
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1695079493906,
+    "modifiedTime": 1701119663641,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!Qhken1plnl053Gl8"
+}

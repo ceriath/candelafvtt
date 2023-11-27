@@ -1,0 +1,27 @@
+{
+  "folder": "kIB8m3Tvk7eWbyFD",
+  "name": "Tactician",
+  "type": "Ability",
+  "_id": "oxF7iWlSw3Ug4U1i",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When you are in a dangerous scenario, you may spend 1 Nerve to ask the GM a question: </p><ul><li><p>How do I get to safety?</p></li><li><p>What poses the largest immediate threat to my circle? </p></li><li><p>Where is the target going to move next?</p></li></ul>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701118507597,
+    "modifiedTime": 1701118529211,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!oxF7iWlSw3Ug4U1i"
+}

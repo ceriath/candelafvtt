@@ -1,0 +1,19 @@
+{
+  "name": "Circle Gear",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "yU9fHXAti9gx9tDe",
+  "sort": 0,
+  "color": "#674e8d",
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695079712883,
+    "modifiedTime": 1695079719991,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!folders!yU9fHXAti9gx9tDe"
+}

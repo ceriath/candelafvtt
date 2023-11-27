@@ -1,0 +1,27 @@
+{
+  "folder": "FZYxthrdGtyzcFcu",
+  "name": "Ghostblade",
+  "type": "Ability",
+  "_id": "BbxaDK3d3oENh5Cx",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You can attune a ritual knife to yourself. If you coat it&nbsp;in your blood (<strong>take a Body mark</strong>), it can wound magickal beings and&nbsp;strike invisible or ethereal enemies.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695079012022,
+    "modifiedTime": 1695079029786,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!BbxaDK3d3oENh5Cx"
+}

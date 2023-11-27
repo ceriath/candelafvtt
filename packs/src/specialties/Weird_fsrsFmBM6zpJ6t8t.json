@@ -1,0 +1,19 @@
+{
+  "name": "Weird",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "fsrsFmBM6zpJ6t8t",
+  "sort": 0,
+  "color": "#487237",
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695079534418,
+    "modifiedTime": 1695079599208,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!folders!fsrsFmBM6zpJ6t8t"
+}

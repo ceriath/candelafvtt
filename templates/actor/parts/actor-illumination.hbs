@@ -1,0 +1,23 @@
+<div class="illumination-description">{{ localize "CANDELAFVTT.illumination-description" }}</div>
+<div class="container">
+  <div class="circle-container">
+    <img src="{{ system.illuminationCandleImg }}" class="illumination-center-candle centered" />
+    <input type="hidden" name="system.illumination.value" data-dtype="Number" value="{{system.illumination.value}}">
+    <div class="circular">
+      {{#if (eq system.illumination.value system.illumination.max) }}
+      <img src="{{ system.flameImg }}" class="illumination-flame centered illumination-reset" />
+      {{ else }}
+      <img src="{{ system.flameImg }}" class="illumination-flame-gray centered illumination-reset" />
+      {{/if}}
+        {{#each system.illuminationArray as | v | }}
+          {{#with ../system as |system|}}
+          {{#if (le v system.illumination.value) }}
+          <button class="illumination illuminationa illumination-point illumination-point-selected" data-value="{{ v }}"></button>
+          {{ else }}
+          <button class="illumination illuminationa illumination-point" data-value="{{ v }}"></button>
+          {{/if}}
+          {{/with }}
+        {{/each}}
+    </div>
+  </div>
+</div>

@@ -1,0 +1,27 @@
+{
+  "folder": "KQMl1Q0XhwyvdaSH",
+  "name": "Resource Management",
+  "type": "Ability",
+  "_id": "a1y0jfXiLrHAJ5f3",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When your circle hits a milestone on the Illumination&nbsp;track, earn back one Stitch, Refresh, or Train resource</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695078417748,
+    "modifiedTime": 1695078421790,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!a1y0jfXiLrHAJ5f3"
+}

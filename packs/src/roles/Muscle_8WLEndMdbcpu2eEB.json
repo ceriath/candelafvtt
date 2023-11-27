@@ -1,0 +1,27 @@
+{
+  "name": "Muscle",
+  "type": "Role",
+  "_id": "8WLEndMdbcpu2eEB",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>The protector, fighter, or daring member of the group, a Muscle is generally an intrepid individual who is skilled in combat, tactics, or physical activities.</p>",
+    "identifier": "muscle"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1695079211643,
+    "modifiedTime": 1701119436038,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!8WLEndMdbcpu2eEB"
+}

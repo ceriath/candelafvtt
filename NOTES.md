@@ -1,0 +1,4 @@
+This product was created using the Darrington Press Community Gaming License. The Illuminated Worlds Standard Resource Document, the Candela Obscura Quickstart Guide and the Candela Obscura Core Rulebook are owned and copyrighted by Darrington Press, LLC. All rights reserved.  
+This product is based on content created and owned by Darrington Press. Candela Obscura, Darrington Press, LLC, 2023, available at [darringtonpress.com](https://darringtonpress.com)  
+The Public Game Content identified above is licensed via the Darrington Press Community Gaming License, available at [darringtonpress.com](https://darringtonpress.com)  
+The Public Game Content has been modified by the author. There were no previous modification by others.

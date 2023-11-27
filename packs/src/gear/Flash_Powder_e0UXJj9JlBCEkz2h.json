@@ -1,0 +1,26 @@
+{
+  "folder": "eMq1spqAtgBgSeEC",
+  "name": "Flash Powder",
+  "type": "Gear",
+  "_id": "e0UXJj9JlBCEkz2h",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695079831194,
+    "modifiedTime": 1695079845526,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!e0UXJj9JlBCEkz2h"
+}

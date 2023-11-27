@@ -1,0 +1,19 @@
+{
+  "name": "Investigator Abilities",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "GkEjPPL2t3aZnkH4",
+  "sort": 0,
+  "color": "#674e8d",
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695078273507,
+    "modifiedTime": 1695078516632,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!folders!GkEjPPL2t3aZnkH4"
+}

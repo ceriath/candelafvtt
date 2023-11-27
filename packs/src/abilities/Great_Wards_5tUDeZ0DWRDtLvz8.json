@@ -1,0 +1,27 @@
+{
+  "folder": "BdDJEb5rwyrK4TRe",
+  "name": "Great Wards",
+  "type": "Ability",
+  "_id": "5tUDeZ0DWRDtLvz8",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You can inscribe and maintain a warding symbol on one person at a time. Describe the material they must hold to bind it (salt, sand, etc.). They take +1d on Move rolls against phenomena.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701118966010,
+    "modifiedTime": 1701118968075,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!5tUDeZ0DWRDtLvz8"
+}

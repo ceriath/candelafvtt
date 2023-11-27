@@ -1,0 +1,27 @@
+{
+  "folder": "mp36wUJspNjiD4ZD",
+  "name": "Commune",
+  "type": "Ability",
+  "_id": "M1P9RPtH4dPlMswA",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You can make a connection with a nearby sentient phenomenon in order to communicate with it. Take a Brain mark and make a Sense roll to open an empathetic or telepathic connection to ask a question. On a success, you get an answer. On a 4–5 result, the phenomenon will ask a question in return.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701119083740,
+    "modifiedTime": 1701119085889,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!M1P9RPtH4dPlMswA"
+}

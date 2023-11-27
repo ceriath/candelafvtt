@@ -1,0 +1,27 @@
+{
+  "folder": "5c9CgKqBwAMZtuCN",
+  "name": "University Resources",
+  "type": "Ability",
+  "_id": "Cd7fFU3vSspmG235",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Your university has alumni all over the world. Once per session, describe a person you know from your tenure as a professor, and ask the GM where they can be found locally.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701118714880,
+    "modifiedTime": 1701118717634,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!Cd7fFU3vSspmG235"
+}

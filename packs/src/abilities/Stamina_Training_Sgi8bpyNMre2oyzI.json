@@ -1,0 +1,27 @@
+{
+  "folder": "KQMl1Q0XhwyvdaSH",
+  "name": "Stamina Training",
+  "type": "Ability",
+  "_id": "Sgi8bpyNMre2oyzI",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Your circle has three gilded dice at the beginning of every assignment that you may add to any roll. Once a die has been rolled, it is expended.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695078306060,
+    "modifiedTime": 1695078308710,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!Sgi8bpyNMre2oyzI"
+}

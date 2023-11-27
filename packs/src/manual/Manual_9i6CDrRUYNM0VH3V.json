@@ -1,0 +1,128 @@
+{
+  "name": "Manual",
+  "_id": "9i6CDrRUYNM0VH3V",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Create a Character",
+      "type": "text",
+      "_id": "FhLx708eQRa81VOG",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Welcome!</p><p></p><p>Your first step is to create a Character for each Player.<br />In your right sidebar, select the \"Actors\" and click \"Create Actor\".<br />Select \"Character\" as type.</p><p>Right-click the newly created character and select \"Configure Ownership\" to assign the Sheet to the Player's account.</p><p>You will now have an empty Character sheet.</p><p>Fill in your Name, your pronouns, select a picture and fill in the biography tab.</p><p><br />To add your role, select it from the Roles compendium and drag it onto your Character sheet.<br />The role should appear on your sheet and it will automatically set your Drives and Resistances.</p><p>To add your specialty, select it from the Specialties compendium and drag it onto your character sheet. Make sure your selected specialty matches your role.<br />The specialty should also appear on your sheet.</p><p>Now find select an Ability for your role from the Abilities Compendium. Dragging it on your sheet automatically adds it to your Character.</p><p>Currently available roles and specialties from the Core Rulebook:</p><p></p><table><tbody><tr><td data-colwidth=\"249\"><p>@UUID[Compendium.candelafvtt.roles.Item.yRu655DeGqPr3LDx]{Face}</p></td><td><p>@UUID[Compendium.candelafvtt.specialties.Item.KkzfMeBTu16nsNXn]{Magician}</p><p>@UUID[Compendium.candelafvtt.specialties.Item.9AEzS86oo6NeyJ56]{Journalist}</p></td></tr><tr><td data-colwidth=\"249\"><p>@UUID[Compendium.candelafvtt.roles.Item.8WLEndMdbcpu2eEB]{Muscle}</p></td><td><p>@UUID[Compendium.candelafvtt.specialties.Item.vzjw2VQx8YJyPItl]{Explorer}</p><p>@UUID[Compendium.candelafvtt.specialties.Item.3ldycQAUJW7l0OXX]{Soldier}</p></td></tr><tr><td data-colwidth=\"249\"><p>@UUID[Compendium.candelafvtt.roles.Item.rhZTZB5VSYdyGSL6]{Scholar}</p></td><td><p>@UUID[Compendium.candelafvtt.specialties.Item.Qhken1plnl053Gl8]{Professor}</p><p>@UUID[Compendium.candelafvtt.specialties.Item.Sc3HgSnuu9GT2Svn]{Doctor}</p></td></tr><tr><td data-colwidth=\"249\"><p>@UUID[Compendium.candelafvtt.roles.Item.So1GECQOMtOqdKmp]{Slink}</p></td><td><p>@UUID[Compendium.candelafvtt.specialties.Item.QSZMec5lxweOYtOG]{Criminal}</p><p>@UUID[Compendium.candelafvtt.specialties.Item.eX5uUjVfP3pQhuBo]{Detective}</p></td></tr><tr><td data-colwidth=\"249\"><p>@UUID[Compendium.candelafvtt.roles.Item.68t40rapOxnwN9Jp]{Weird}</p></td><td><p>@UUID[Compendium.candelafvtt.specialties.Item.1jKPw4gD6rzzhqwY]{Occultist}</p><p>@UUID[Compendium.candelafvtt.specialties.Item.Hqkp2yGLMvlMSkYQ]{Medium}</p></td></tr></tbody></table>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "Nh71YScXMKI1zIQp": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "candelafvtt",
+        "systemVersion": "0.0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1695163756767,
+        "modifiedTime": 1701121577690,
+        "lastModifiedBy": "DJHzcdBMH1Gduffz"
+      },
+      "_key": "!journal.pages!9i6CDrRUYNM0VH3V.FhLx708eQRa81VOG"
+    },
+    {
+      "sort": 200000,
+      "name": "Create a Circle",
+      "type": "text",
+      "_id": "hvNrI5QxzwmyQYs8",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>The next step is to create a Circle.</p><p>Ask your Lightkeeper to create it for you, by clicking \"Create Actor\" again, but select \"Circle\" as a type.</p><p>I highly recommend to right-click it and \"Configure Ownership\" and give all Players at least Observer permission. This will allow Players to see their Circle.<br />If you trust your Players, you can also set them as Owners, so everyone can edit the Circle.</p><p>Give it a name, a chapter house (if there already is one - this might not be the case for a new circle) and select a color.</p><p>Select one starting Ability from the Abilities compendium, by dragging it on the Circle sheet. </p><p>As a last step, all Members of that Circle need to drag and drop this Circle on their character sheets, to become members. They will appear in the Members tab of the Circle sheet and resources will be increased, to match the member count. </p><p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "Nh71YScXMKI1zIQp": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "candelafvtt",
+        "systemVersion": "0.0.1",
+        "coreVersion": "11.308",
+        "createdTime": 1695163762138,
+        "modifiedTime": 1695164664101,
+        "lastModifiedBy": "Nh71YScXMKI1zIQp"
+      },
+      "_key": "!journal.pages!9i6CDrRUYNM0VH3V.hvNrI5QxzwmyQYs8"
+    },
+    {
+      "sort": 300000,
+      "name": "Notes",
+      "type": "text",
+      "_id": "RMpG7b2TcVwIcuHM",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>If you find any bugs, please file an issue on <a href=\"https://github.com/ceriath/candelafvtt/issues\">Github</a>.</p><p>You can also reach out to me on Discord @ceriath</p><p></p><p></p><p>This system and its content is entirely based on the<a href=\"https://darringtonpress.com/candela/\"> Candela Obscura Quickstart Guide</a> and the <a href=\"https://foundry-pg.ceriath.net/(https://darringtonpress.com/candela/\">Candela Obscura Core Rulebook </a>by Darrington Press, published under the <a href=\"https://darringtonpress.com/license/\">Darrington Press Community Gaming License</a>.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "DJHzcdBMH1Gduffz": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "candelafvtt",
+        "systemVersion": "0.0.1",
+        "coreVersion": "11.315",
+        "createdTime": 1701121581942,
+        "modifiedTime": 1701121593042,
+        "lastModifiedBy": "DJHzcdBMH1Gduffz"
+      },
+      "_key": "!journal.pages!9i6CDrRUYNM0VH3V.RMpG7b2TcVwIcuHM"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1695163745560,
+    "modifiedTime": 1701121593042,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!journal!9i6CDrRUYNM0VH3V"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Journalist",
+  "type": "Specialty",
+  "_id": "9AEzS86oo6NeyJ56",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You are a bold investigator who knows how to get to the bottom of things. Your primary drive is Cunning, and your abilities are focused on collecting and assessing information. </p>",
+    "identifier": "journalist",
+    "roleIdentifier": "face",
+    "drives": {
+      "nerve": 0,
+      "cunning": 3,
+      "intuition": 0
+    },
+    "actionRatings": {
+      "nerve": {
+        "move": 0,
+        "strike": 0,
+        "control": 0
+      },
+      "cunning": {
+        "sway": 0,
+        "read": 1,
+        "hide": 0
+      },
+      "intuition": {
+        "survey": 2,
+        "focus": 1,
+        "sense": 1
+      }
+    }
+  },
+  "effects": [],
+  "folder": "8gvVtgiYS5BmrPLV",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1695079311080,
+    "modifiedTime": 1701119288942,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!9AEzS86oo6NeyJ56"
+}

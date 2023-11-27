@@ -1,0 +1,23 @@
+<ol class='items-list'>
+    <li class='item flexrow items-header align-right'>
+        <div class='item-controls'>
+            <a class='item-control item-create' title='Create item' data-type='Ability'><i class='fas fa-plus'></i> Add Ability</a>
+        </div>
+    </li>
+    {{#each abilities as |item id|}}
+        <li class='item flexrow' data-item-id='{{item._id}}'>
+            <div class='circle-abilities flex-group'>
+                <a class='rollable' data-roll-type='item'><span class='resource-label circle-ability-label'>{{item.name}}</span></a>
+                <div class='resource-content flexrow flex-between circle-ability-description'>
+                    <div class='gear-description'>
+                        <span>{{{item.system.description}}}</span>
+                    </div>
+                </div>
+            </div>
+            <div class='item-controls flex-right'>
+                <a class='item-control item-edit' title='Edit Ability'><i class='fas fa-edit'></i></a>
+                <a class='item-control item-delete' title='Delete Ability'><i class='fas fa-trash'></i></a>
+            </div>
+        </li>
+    {{/each}}
+</ol>

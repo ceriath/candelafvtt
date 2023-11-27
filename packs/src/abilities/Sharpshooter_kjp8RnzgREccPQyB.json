@@ -1,0 +1,27 @@
+{
+  "folder": "kIB8m3Tvk7eWbyFD",
+  "name": "Sharpshooter",
+  "type": "Ability",
+  "_id": "kjp8RnzgREccPQyB",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When you want to make a ranged attack with a weapon, you may spend 1 Nerve to steady your aim before shooting, and add +2d to your next shot at this target.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701118494495,
+    "modifiedTime": 1701118501064,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!kjp8RnzgREccPQyB"
+}

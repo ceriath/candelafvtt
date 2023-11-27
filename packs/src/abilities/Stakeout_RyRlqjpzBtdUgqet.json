@@ -1,0 +1,27 @@
+{
+  "folder": "6vaky6TqqCSAS3Fj",
+  "name": "Stakeout",
+  "type": "Ability",
+  "_id": "RyRlqjpzBtdUgqet",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You are good at collecting information while remaining undetected. When you are tailing a suspect or conducting surveillance, you may use Survey instead of Hide.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701118937585,
+    "modifiedTime": 1701118940216,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!RyRlqjpzBtdUgqet"
+}

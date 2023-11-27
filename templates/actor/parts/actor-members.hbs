@@ -1,0 +1,17 @@
+<ol class="items-list">
+  {{#each system.members as |member id|}}
+    {{#with ../system as |system|}}
+      <li class="item flexrow" data-member-uuid="{{member.uuid}}">
+        <a
+          class="content-link circle-link"
+          data-uuid="{{member.uuid}}"
+          data-type="Actor"
+          style="text-shadow: 0 0 8px {{system.color}};"
+        ><h4 class="circle">{{member.name}}</h4></a>
+        <div class='item-controls'>
+            <a class='item-control member-remove' title='Remove Member'><i class='fas fa-trash'></i></a>
+        </div>
+      </li>
+    {{/with}}
+  {{/each}}
+</ol>

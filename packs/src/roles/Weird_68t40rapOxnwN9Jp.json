@@ -1,0 +1,27 @@
+{
+  "name": "Weird",
+  "type": "Role",
+  "_id": "68t40rapOxnwN9Jp",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>The arcane, magickal, or supernatural member of the group, a Weird character is generally connected to the occult and skilled in enigmatic lore, psychic abilities, and understanding thinnings.</p>",
+    "identifier": "weird"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1695079293940,
+    "modifiedTime": 1701119919574,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!68t40rapOxnwN9Jp"
+}

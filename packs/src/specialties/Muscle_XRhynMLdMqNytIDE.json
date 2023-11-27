@@ -1,0 +1,19 @@
+{
+  "name": "Muscle",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "XRhynMLdMqNytIDE",
+  "sort": 0,
+  "color": "#af3131",
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695079426054,
+    "modifiedTime": 1695079580357,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!folders!XRhynMLdMqNytIDE"
+}

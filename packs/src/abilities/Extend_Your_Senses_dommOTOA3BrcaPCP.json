@@ -1,0 +1,27 @@
+{
+  "folder": "FZYxthrdGtyzcFcu",
+  "name": "Extend Your Senses",
+  "type": "Ability",
+  "_id": "dommOTOA3BrcaPCP",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When you roll with Sense to understand&nbsp;more about a phenomenon you&rsquo;ve encountered, also add a number&nbsp;of dice equal to your current Intuition resistance to the roll</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695079038300,
+    "modifiedTime": 1695079048109,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!dommOTOA3BrcaPCP"
+}

@@ -1,0 +1,27 @@
+{
+  "folder": "6vaky6TqqCSAS3Fj",
+  "name": "One Step Ahead",
+  "type": "Ability",
+  "_id": "y1sddeigqEzq4kIE",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Once per assignment, you can produce a useful mundane object you’ve had with you all along. When you do, fill in the empty gear slot and write the object in this space. This does not count toward your gear limit.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701118950293,
+    "modifiedTime": 1701118953119,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!y1sddeigqEzq4kIE"
+}

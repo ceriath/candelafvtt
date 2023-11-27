@@ -1,0 +1,27 @@
+{
+  "folder": "BdDJEb5rwyrK4TRe",
+  "name": "Let Them In",
+  "type": "Ability",
+  "_id": "s1GQLWvN4fbJOR6A",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Whenever you take one or more Bleed marks, you also&nbsp;gain additional information about the phenomenon that harmed&nbsp;you.</p>\n<p>Ask the GM a question about the source of the bleed.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695078985254,
+    "modifiedTime": 1695078997789,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!s1GQLWvN4fbJOR6A"
+}

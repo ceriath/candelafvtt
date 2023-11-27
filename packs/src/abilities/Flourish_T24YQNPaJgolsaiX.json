@@ -1,0 +1,27 @@
+{
+  "folder": "bsyyVtb1aOOd09Mo",
+  "name": "Flourish",
+  "type": "Ability",
+  "_id": "T24YQNPaJgolsaiX",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You know how to cover your mistakes with flair. On a roll where you could spend Cunning, if you fail or get a mixed success, you may spend 2 Cunning to push the result up one tier—from a miss to mixed success or mixed success to full success.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701118357478,
+    "modifiedTime": 1701118359953,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!T24YQNPaJgolsaiX"
+}

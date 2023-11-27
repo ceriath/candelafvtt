@@ -1,0 +1,50 @@
+{
+  "folder": "602ycd03tDxYTFsE",
+  "name": "Doctor",
+  "type": "Specialty",
+  "_id": "Sc3HgSnuu9GT2Svn",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You are a skilled physician who knows how to conduct medical procedures. Your primary drive is Intuition, and your abilities are focused on anatomy and healing.</p>",
+    "identifier": "doctor",
+    "roleIdentifier": "scholar",
+    "drives": {
+      "nerve": 0,
+      "cunning": 0,
+      "intuition": 3
+    },
+    "actionRatings": {
+      "nerve": {
+        "move": 0,
+        "strike": 0,
+        "control": 1
+      },
+      "cunning": {
+        "sway": 0,
+        "read": 1,
+        "hide": 0
+      },
+      "intuition": {
+        "survey": 1,
+        "focus": 2,
+        "sense": 0
+      }
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1695079480462,
+    "modifiedTime": 1701119619948,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!Sc3HgSnuu9GT2Svn"
+}

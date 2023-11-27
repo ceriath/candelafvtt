@@ -1,0 +1,27 @@
+{
+  "folder": "mp36wUJspNjiD4ZD",
+  "name": "Last Moments",
+  "type": "Ability",
+  "_id": "QluVqzcD5wvkKiqJ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>While touching a corpse, you can burn an Intuition resistance to hear, smell, and feel that creature’s last few moments of life. By taking a Bleed mark, you can push yourself to see a still image of the last thing they saw before death.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701119074071,
+    "modifiedTime": 1701119076859,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!QluVqzcD5wvkKiqJ"
+}

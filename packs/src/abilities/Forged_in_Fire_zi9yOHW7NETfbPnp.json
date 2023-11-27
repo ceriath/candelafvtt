@@ -1,0 +1,27 @@
+{
+  "folder": "KQMl1Q0XhwyvdaSH",
+  "name": "Forged in Fire",
+  "type": "Ability",
+  "_id": "zi9yOHW7NETfbPnp",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When you help an ally on a roll, if they don&rsquo;t succeed, you both&nbsp;earn back 1 drive point of your choice.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695078370568,
+    "modifiedTime": 1695078378023,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!zi9yOHW7NETfbPnp"
+}

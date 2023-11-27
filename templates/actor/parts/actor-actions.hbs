@@ -1,0 +1,59 @@
+{{#each system.actionCategories as |actionCategory actionCategoryKey|}}
+    <div class='actioncategory grid grid-8col items-header'>
+        <span class='actioncategory-label grid-span-1' name='system.actionCategories.{{actionCategoryKey}}.label'>{{localize (concat 'CANDELAFVTT.' actionCategoryKey)}}</span>
+        <span class='grid-span-2 align-center'>{{localize "CANDELAFVTT.drives"}}</span>
+        <span class='grid-span-1 align-center' style="text-align:left;">
+            <input
+                class='actioncategory-value'
+                type='number'
+                min=0
+                max={{actionCategory.drives.max}}
+                name='system.actionCategories.{{actionCategoryKey}}.drives.value'
+                value='{{actionCategory.drives.value}}'
+                data-dtype='Number'
+            />
+            <span class='actioncategory-label align-center' name='system.actionCategories.{{actionCategoryKey}}.drives.max'>/ {{actionCategory.drives.max}}</span>
+        </span>
+        <span class='grid-span-2 align-center grid-start-6' for='system.actionCategories.{{actionCategoryKey}}.resistance.value'>{{localize "CANDELAFVTT.resistances"}}</span>
+        <span class='grid-span-1 align-center' style="text-align:left;">
+            <input
+                class='actioncategory-value'
+                type='number'
+                min=0
+                max={{actionCategory.resistance.max}}
+                name='system.actionCategories.{{actionCategoryKey}}.resistance.value'
+                value='{{actionCategory.resistance.value}}'
+                data-dtype='Number'
+            />
+            <span class='actioncategory-label' name='system.actionCategories.{{actionCategoryKey}}.resistance.max'>/ {{actionCategory.resistance.max}}</span>
+        </span>
+    </div>
+
+    <ol class='actions-list'>
+        {{#each actionCategory.actions as |action actionKey|}}
+            <li class='action grid grid-8col' data-attribute='system.actionCategories.{{actionCategoryKey}}.actions.{{actionKey}}' data-action-id='{{actionKey}}'>
+                <div class='action-checkbox-icon grid-span-1'>
+                    <input type='checkbox' name='system.actionCategories.{{actionCategoryKey}}.actions.{{actionKey}}.gilded' {{checked action.gilded}} />
+                </div>
+                <a class='rollable grid-span-2 align-center' data-roll-type='action'>
+                    <span class='action-label' name='system.actionCategories.{{actionCategoryKey}}.actions.{{actionKey}}.label'>{{localize
+                            (concat 'CANDELAFVTT.' actionKey)
+                        }}</span></a>
+                <span class='action-description grid-span-4 align-left italic' name='system.actionCategories.{{actionCategoryKey}}.actions.{{actionKey}}.description'>{{localize
+                        (concat 'CANDELAFVTT.' actionKey '-description')
+                    }}</span>
+
+                <div class='action-editbox grid-span-1'>
+                    <input
+                        class='action-value'
+                        type='number'
+                        min=0
+                        name='system.actionCategories.{{actionCategoryKey}}.actions.{{actionKey}}.value'
+                        value='{{action.value}}'
+                        data-dtype='Number'
+                    />
+                </div>
+            </li>
+        {{/each}}
+    </ol>
+{{/each}}

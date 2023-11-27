@@ -1,0 +1,19 @@
+{
+  "name": "Doctor",
+  "sorting": "a",
+  "folder": "FeHL1OMYpcHziIqi",
+  "type": "Item",
+  "_id": "afQN9FzKCimXAThh",
+  "sort": 0,
+  "color": "#807ee2",
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1701118609634,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!folders!afQN9FzKCimXAThh"
+}

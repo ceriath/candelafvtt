@@ -1,0 +1,50 @@
+{
+  "folder": "SROyf6IfgUWooT9v",
+  "name": "Detective",
+  "type": "Specialty",
+  "_id": "eX5uUjVfP3pQhuBo",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You are an experienced investigator who has an outside perspective on the ins and outs of the criminal world. Your primary drive is Nerve, and your abilities are focused on uncovering the truth and stopping malefactors.</p>",
+    "identifier": "detective",
+    "roleIdentifier": "slink",
+    "drives": {
+      "nerve": 2,
+      "cunning": 1,
+      "intuition": 0
+    },
+    "actionRatings": {
+      "nerve": {
+        "move": 0,
+        "strike": 0,
+        "control": 0
+      },
+      "cunning": {
+        "sway": 0,
+        "read": 2,
+        "hide": 0
+      },
+      "intuition": {
+        "survey": 1,
+        "focus": 0,
+        "sense": 2
+      }
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1695079525441,
+    "modifiedTime": 1701119841915,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!eX5uUjVfP3pQhuBo"
+}

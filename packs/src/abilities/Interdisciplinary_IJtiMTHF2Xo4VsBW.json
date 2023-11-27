@@ -1,0 +1,27 @@
+{
+  "folder": "KQMl1Q0XhwyvdaSH",
+  "name": "Interdisciplinary",
+  "type": "Ability",
+  "_id": "IJtiMTHF2Xo4VsBW",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When choosing a new Ability during character advancement,&nbsp;once per campaign, each player may choose an Ability from a character role or&nbsp;specialty outside their own.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695078396372,
+    "modifiedTime": 1695078402933,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!IJtiMTHF2Xo4VsBW"
+}

@@ -1,0 +1,27 @@
+{
+  "folder": "FqC3vG5Vs4WtBY7l",
+  "name": "Tenacious",
+  "type": "Ability",
+  "_id": "rEldvX6ypqrI6hmx",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When you have one or more Bleed marks, gild an&nbsp;additional die on Move, Strike, or Control rolls while in danger.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695079111223,
+    "modifiedTime": 1695079118286,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!rEldvX6ypqrI6hmx"
+}

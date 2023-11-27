@@ -1,0 +1,19 @@
+{
+  "name": "Investigator Gear",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "eMq1spqAtgBgSeEC",
+  "sort": 0,
+  "color": "#674e8d",
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695079726448,
+    "modifiedTime": 1695079726448,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!folders!eMq1spqAtgBgSeEC"
+}

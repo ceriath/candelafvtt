@@ -1,0 +1,19 @@
+{
+  "name": "Explorer",
+  "sorting": "a",
+  "folder": "I5NXBGq8U9ujcUjJ",
+  "type": "Item",
+  "_id": "FqC3vG5Vs4WtBY7l",
+  "sort": 0,
+  "color": "#df7272",
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": null,
+    "modifiedTime": 1695079102926,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!folders!FqC3vG5Vs4WtBY7l"
+}

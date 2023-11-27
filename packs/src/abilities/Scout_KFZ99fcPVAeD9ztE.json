@@ -1,0 +1,27 @@
+{
+  "folder": "apBHO24jw6SlmTmk",
+  "name": "Scout",
+  "type": "Ability",
+  "_id": "KFZ99fcPVAeD9ztE",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>If you have time to observe a location, you can spend&nbsp;1 Intuition to ask a question:</p>\n<ul>\n<li><em>What do I notice here that others do not see?</em></li>\n<li><em>What in this place might be of use to us?</em></li>\n<li><em>What path should we follow?</em></li>\n</ul>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695078603049,
+    "modifiedTime": 1695078973591,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!KFZ99fcPVAeD9ztE"
+}

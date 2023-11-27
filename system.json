@@ -1,0 +1,86 @@
+{
+  "id": "candelafvtt",
+  "version": "0.0.1",
+  "title": "Candela Obscura for Foundry (unofficial system)",
+  "url": "https://github.com/ceriath/candelafvtt/",
+  "description": "Unofficial basic implementation of the Candela Obscura Core Rulebook by Darrington Press",
+  "license": "LICENSE.txt",
+  "authors": [
+    {
+      "name": "Ceriath",
+      "url": "https://github.com/ceriath"
+    }
+  ],
+  "esmodules": ["module/candelafvtt.mjs"],
+  "styles": ["css/candelafvtt.css"],
+  "packs": [
+    {
+      "name": "roles",
+      "label": "Roles",
+      "system": "candelafvtt",
+      "path": "packs/roles",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "specialties",
+      "label": "Specialties",
+      "system": "candelafvtt",
+      "path": "packs/specialties",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "abilities",
+      "label": "Abilities",
+      "system": "candelafvtt",
+      "path": "packs/abilities",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "gear",
+      "label": "Gear",
+      "system": "candelafvtt",
+      "path": "packs/gear",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "manual",
+      "label": "System Manual",
+      "system": "candelafvtt",
+      "path": "packs/manual",
+      "type": "JournalEntry",
+      "private": true,
+      "flags": {}
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "de",
+      "name": "German",
+      "path": "lang/de.json"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
+  "manifest": "https://raw.githubusercontent.com/ceriath/candelafvtt/v.0.0.1/system.json",
+  "download": "https://github.com/ceriath/candelafvtt/releases/download/v0.0.1/candelafvtt-v0.0.1.zip",
+  "changelog": "CHANGELOG.md"
+}

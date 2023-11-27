@@ -1,0 +1,58 @@
+{
+  "name": "Resources",
+  "_id": "3BW5sqW9PQCIIySH",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "The Fairelands",
+      "type": "image",
+      "_id": "fU3No3XpqVHtQW1M",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {
+        "caption": "Map of the Fairelands"
+      },
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": "systems/candelafvtt/img/fairelands-map.jpg",
+      "system": {},
+      "ownership": {
+        "default": -1,
+        "Nh71YScXMKI1zIQp": 3
+      },
+      "flags": {},
+      "_stats": {
+        "systemId": "candelafvtt",
+        "systemVersion": "0.0.1",
+        "coreVersion": "11.308",
+        "createdTime": 1695164900656,
+        "modifiedTime": 1695164915191,
+        "lastModifiedBy": "Nh71YScXMKI1zIQp"
+      },
+      "_key": "!journal.pages!3BW5sqW9PQCIIySH.fU3No3XpqVHtQW1M"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695164894845,
+    "modifiedTime": 1695164915191,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!journal!3BW5sqW9PQCIIySH"
+}

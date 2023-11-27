@@ -1,0 +1,31 @@
+{
+  "name": "candelafvtt",
+  "version": "0.0.1",
+  "description": "CSS compiler for the Candela FVTT system",
+  "scripts": {
+    "build": "gulp build",
+    "compile": "gulp css",
+    "watch": "gulp",
+    "gulp": "gulp",
+    "pack": "gulp pack",
+    "unpack": "gulp unpack"
+  },
+  "browserslist": [
+    "last 3 versions"
+  ],
+  "author": "Ceriath",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^1.0.0-rc.4",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "sass": "^1.53.0"
+  },
+  "dependencies": {
+    "gulp-zip": "^5.1.0",
+    "merge-stream": "^2.0.0"
+  }
+}

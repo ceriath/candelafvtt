@@ -1,0 +1,27 @@
+{
+  "folder": "kKB0r8jGyMupDHFV",
+  "name": "Leverage",
+  "type": "Ability",
+  "_id": "ODij6DfBZanInUUB",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>On a successful Read roll, you may ask the GM what your&nbsp;target truly wants. On any Sway rolls you make using this information,&nbsp;also add a number of dice equal to your current Cunning resistance.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695078671222,
+    "modifiedTime": 1695078679896,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!ODij6DfBZanInUUB"
+}

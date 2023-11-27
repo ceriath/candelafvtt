@@ -1,0 +1,27 @@
+{
+  "folder": "kKB0r8jGyMupDHFV",
+  "name": "Street Smarts",
+  "type": "Ability",
+  "_id": "o7wIsSeoE2xVwvBc",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You know how to keep an eye on your surroundings.&nbsp;Whenever you make a Survey roll, you may spend any drive instead&nbsp;of only using Intuition.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695078647296,
+    "modifiedTime": 1695078658657,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!o7wIsSeoE2xVwvBc"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Magician",
+  "sorting": "a",
+  "folder": "5CsAZLTQ6PObk7xZ",
+  "type": "Item",
+  "_id": "bsyyVtb1aOOd09Mo",
+  "sort": 0,
+  "color": "#3dae97",
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": null,
+    "modifiedTime": 1695078830437,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!folders!bsyyVtb1aOOd09Mo"
+}

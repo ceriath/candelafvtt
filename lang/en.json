@@ -1,0 +1,59 @@
+{
+    "CANDELAFVTT.nerve": "Nerve",
+    "CANDELAFVTT.move": "Move",
+    "CANDELAFVTT.move-description": "run, dodge, navigate",
+    "CANDELAFVTT.strike": "Strike",
+    "CANDELAFVTT.strike-description": "punch, break, knock down",
+    "CANDELAFVTT.control": "Control",
+    "CANDELAFVTT.control-description": "drive, shoot, finesse",
+    
+    "CANDELAFVTT.cunning": "Cunning",
+    "CANDELAFVTT.sway": "Sway",
+    "CANDELAFVTT.sway-description": "convince, command, consort",
+    "CANDELAFVTT.read": "Read",
+    "CANDELAFVTT.read-description": "interpret body language, spot lies, gather motive",
+    "CANDELAFVTT.hide": "Hide",
+    "CANDELAFVTT.hide-description": "sneak, distract, sleight of hand",
+    
+    "CANDELAFVTT.intuition": "Intuition",
+    "CANDELAFVTT.survey": "Survey",
+    "CANDELAFVTT.survey-description": "search, track, spot",
+    "CANDELAFVTT.focus": "Focus",
+    "CANDELAFVTT.focus-description": "inspect, analyze, remember",
+    "CANDELAFVTT.sense": "Sense",
+    "CANDELAFVTT.sense-description": "attune, channel, reveal",
+
+    "CANDELAFVTT.members": "Members",
+
+    "CANDELAFVTT.stitch": "Stitch",
+    "CANDELAFVTT.refresh": "Refresh",
+    "CANDELAFVTT.train": "Train",
+
+    "CANDELAFVTT.brain": "Brain",
+    "CANDELAFVTT.body": "Body",
+    "CANDELAFVTT.bleed": "Bleed",
+
+    "CANDELAFVTT.drives": "Drives",
+    "CANDELAFVTT.resistances": "Resistances",
+    "CANDELAFVTT.abilities": "Abilities",
+    "CANDELAFVTT.illumination": "Illumination",
+    "CANDELAFVTT.gear": "Gear",
+    "CANDELAFVTT.actions": "Actions",
+    "CANDELAFVTT.biography": "Biography",
+    "CANDELAFVTT.marks": "Marks",
+    "CANDELAFVTT.scars": "Scars",
+    "CANDELAFVTT.style": "Style",
+    "CANDELAFVTT.catalyst": "Catalyst",
+    "CANDELAFVTT.question": "Question",
+    "CANDELAFVTT.background": "Background",
+
+    "CANDELAFVTT.abilities-description": "Choose one at character creation and one each time your circle advances.",
+    "CANDELAFVTT.illumination-description": "When the Illumination track is full, clear the track. Any leftover Illumination counts toward your next advancement cycle. Then choose a new circle ability, and all players can choose their character advancement options. The red circles represent milestones, which may have mechanical benefits depending on what abilities your circle chooses.",
+
+    "CANDELAFVTT.driveBonus": "Add drives",
+    "CANDELAFVTT.driveBonusDescription": "Add additional drives from yourself or your fellow investigators",
+    "CANDELAFVTT.roll": "Test your luck!",
+
+    "CANDELAFVTT.errors-invalid-spec": "The selected specialty is invalid for your selected role!"
+
+}

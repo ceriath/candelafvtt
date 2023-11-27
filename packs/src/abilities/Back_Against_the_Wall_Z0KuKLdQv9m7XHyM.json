@@ -1,0 +1,27 @@
+{
+  "folder": "6vaky6TqqCSAS3Fj",
+  "name": "Back Against the Wall",
+  "type": "Ability",
+  "_id": "Z0KuKLdQv9m7XHyM",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When you are making a high-stakes roll, you may take a Brain mark to make any Nerve you spend worth +2d instead of +1d.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701118916260,
+    "modifiedTime": 1701118921353,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!Z0KuKLdQv9m7XHyM"
+}

@@ -1,0 +1,263 @@
+.circle-illumination-container {
+    //@include on-circle($item-count: 25, $circle-size: 20em, $item-size: 2em);
+    @include circle-blackmagic();
+    margin: 5em auto 0;
+
+    img {
+        display: block;
+        max-width: 100%;
+        border-radius: 50%;
+        filter: grayscale(100%);
+        transition: 0.15s;
+
+        &:hover,
+        &:active {
+            filter: grayscale(0);
+        }
+    }
+}
+
+.container {
+    width: 50%;
+    height: auto;
+    margin: 2em auto 0;
+}
+
+.circle-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding: 0 0 100% 0; // To make it a square.
+    margin: 0;
+    border-radius: 50%;
+    list-style: none;
+}
+
+.circular {
+    @include circle-blackmagic();
+}
+
+.illumination-description {
+    text-align: center;
+    margin-top: 8px;
+    margin-right: 10px;
+}
+
+.illumination button:hover,
+button:focus {
+    box-shadow: 0 0 10px #ffde00;
+
+    &:nth-of-type(7n) {
+        box-shadow: 0 0 10px #ce4420;
+    }
+}
+
+.illumination-point {
+    display: block;
+    max-width: 100%;
+    transition: 0.15s;
+    border-radius: 50%;
+    border: 2px solid darkgray;
+    appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    background-color: darkgray;
+    cursor: pointer;
+
+    &:nth-of-type(7n) {
+        background-color: gray;
+        border: 2px solid gray;
+    }
+}
+
+.illumination-point-selected {
+    animation: 6s illuminate infinite;
+    background-color: #ffde00;
+    border: 2px solid #ffde00;
+
+    &:nth-of-type(7n) {
+        background-color: #ce4420;
+        border: 2px solid #ce4420;
+        animation: 6s illuminate-milestone infinite;
+    }
+}
+
+.illumination-center-candle {
+    height: 30%;
+    border: none;
+    @include centerer;
+}
+
+@keyframes illuminate {
+    0% {
+        box-shadow: 0 0 15px -5px transparent;
+    }
+
+    50% {
+        box-shadow: 0 0 5px 2px #ffde00;
+    }
+
+    100% {
+        box-shadow: 0 0 15px -5px transparent;
+    }
+}
+
+@keyframes illuminate-milestone {
+    0% {
+        box-shadow: 0 0 15px -5px transparent;
+    }
+
+    50% {
+        box-shadow: 0 0 15px 5px #ce4420;
+    }
+
+    100% {
+        box-shadow: 0 0 15px -5px transparent;
+    }
+}
+
+.circle-abilities {
+    margin: 8px;
+}
+
+.circle-ability-description {
+    margin-top: 1%;
+}
+
+.circle-ability-description-text {
+    margin-left: 30px;
+    display: flex;
+}
+
+.illumination-flame {
+    border: none;
+}
+
+.illumination-flame-gray {
+    border: none;
+    filter: grayscale(1);
+}
+
+.illumination-reset {
+    cursor: pointer;
+}
+
+.action-checkbox {
+    caret-color: transparent;
+    display: block;
+
+    /* Hide the browser's default checkbox */
+    input {
+        display: none;
+    }
+
+    /* Hide the checked checkbox */
+    .img-checked {
+        display: none;
+        border: none;
+        max-width: 20px;
+        cursor: pointer;
+        float: left;
+    }
+
+    /* Hide the checked checkbox */
+    .img-unchecked {
+        filter: grayscale(1);
+        border: none;
+        max-width: 20px;
+        cursor: pointer;
+        float: left;
+    }
+
+    /* If checked, show the checked image */
+    input:checked ~ .img-checked {
+        display: inline;
+    }
+
+    /* If checked, hide the unchecked image */
+    input:checked ~ .-img-unchecked {
+        display: none;
+    }
+}
+
+.action-checkbox-icon {
+    cursor: default;
+    caret-color: transparent;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 25%;
+}
+
+.action-checkbox-icon > input {
+    appearance: none;
+    font-family: "Font Awesome 5 Free";
+    font-size: 21px;
+    cursor: pointer;
+    &::before {
+        display: inline-block;
+        content: "\f3a5";
+        font-weight: 400;
+        text-shadow: 0 0 5px goldenrod;
+    }
+
+    &:checked::before {
+        content: "\f3a5";
+        font-weight: 900;
+        color: goldenrod;
+        text-shadow: 0 0 10px gold;
+    }
+}
+
+.gear-description {
+    margin-left: 20px;
+}
+
+.circle-abilities-description {
+    margin: 8px;
+}
+
+.circle-link {
+    border: none;
+    padding: unset;
+    text-shadow: 3px 3px 8px;
+    text-align: center;
+    font-size: 1.5em;
+    background: none;
+    filter: saturate(1.0);
+    color: var(--color-shadow-primary);
+
+    :hover {
+        // text-shadow: 8px 8px 8px;
+        filter: saturate(2.5);
+    }
+}
+.circle-color-wrapper{
+    input[name="system.color"] {
+        display: none;
+    }
+
+    input[type="color"] {
+        margin-right: unset;
+        margin-left: unset;
+        width: 100%;
+        background: rgba(0 0 0 / 0.05);
+        border: 1px solid var(--color-border-light-tertiary);
+        border-radius: 3px;
+    }
+}
+
+.sheet-header .actor-header-left {
+    flex: none;
+    margin: 5px;
+}
+
+.chapterhouse {
+    align-self: center;
+}
+
+.biography nav.bio-tabs {
+    background: rgba(0 0 0 / 0.05);
+    // margin-top: -7px;
+    padding: 5px;
+}

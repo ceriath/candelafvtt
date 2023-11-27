@@ -1,0 +1,31 @@
+<div class='candelafvtt dice-roll'>
+    <div class='dice-result'>
+        <div class='dice-formula'>{{formula}}</div>
+        <div class='dice-tooltip expanded'>
+            {{#each dice as |die|}}
+                <section class='tooltip-part'>
+                    <div class='dice'>
+                        <header class='part-header flexrow'>
+                            <span class='part-formula'>{{die.formula}}</span>
+                            {{#if die.flavor}}<span class='part-flavor'>{{die.flavor}}</span>{{/if}}
+                            <span class='part-total'>{{die.total}}</span>
+                        </header>
+                        <ol class='dice-rolls'>
+                            {{#each die.results as |r|}}
+                                {{#if (eq r.result 6)}}
+                                    <li class='roll die d6 success'>{{r.result}}</li>
+                                {{else}}
+                                    {{#if (lt r.result 4)}}
+                                        <li class='roll die d6 failure'>{{r.result}}</li>
+                                    {{else}}
+                                        <li class='roll die d6 mixed'>{{r.result}}</li>
+                                    {{/if}}
+                                {{/if}}
+                            {{/each}}
+                        </ol>
+                    </div>
+                </section>
+            {{/each}}
+        </div>
+    </div>
+</div>

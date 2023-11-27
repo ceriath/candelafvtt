@@ -1,0 +1,27 @@
+{
+  "folder": "5CsAZLTQ6PObk7xZ",
+  "name": "I Know A Guy",
+  "type": "Ability",
+  "_id": "KaFoAn1bt7Rd3SqM",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Once per assignment, ask the GM who you know&nbsp;nearby that could help you. They will give you a temporary contact, and&nbsp;explain why they might have insight into the investigation</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695078804693,
+    "modifiedTime": 1695078812685,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!KaFoAn1bt7Rd3SqM"
+}

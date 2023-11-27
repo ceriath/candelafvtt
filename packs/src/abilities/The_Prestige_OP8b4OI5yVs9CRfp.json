@@ -1,0 +1,27 @@
+{
+  "folder": "bsyyVtb1aOOd09Mo",
+  "name": "The Prestige",
+  "type": "Ability",
+  "_id": "OP8b4OI5yVs9CRfp",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Your magic is usually all smoke and mirrors, but you do have one trick you’ve learned that’s real. Roll Sense when you perform it, and <strong>on a success, take a Bleed mark</strong>.</p><p>Select one option when you take this Ability:</p><ul><li>change appearance</li><li>levitate</li><li>summon mundane object</li><li>teleport a short distance</li><li>throw your voice.</li></ul>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1695078858867,
+    "modifiedTime": 1701118305328,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!OP8b4OI5yVs9CRfp"
+}

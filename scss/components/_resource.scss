@@ -1,0 +1,35 @@
+.resource-label {
+  font-weight: bold;
+}
+
+// .bio {
+//   height: 50%;
+//   max-height: 50%;
+// }
+
+.biography-content {
+  border-bottom: 1px solid #c9c7b8;
+  max-height: 25%;
+  min-height: 10%;
+  overflow: overlay;
+}
+
+.role,
+.specialty {
+  text-align: center;
+  font-size: 1.25em;
+  margin-right: 10px;
+}
+
+.dice-tooltip .dice-rolls .roll.mixed {
+  color: #946500;
+  filter: sepia(0.5) hue-rotate(345deg);
+}
+
+.mark-content, .resource-content {
+  align-items: center;
+}
+
+.action {
+  align-items: center;
+}

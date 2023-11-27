@@ -1,0 +1,23 @@
+# IDE
+.idea/
+.vs/
+.vscode/
+
+# Node Modules
+node_modules/
+npm-debug.log
+
+# Foundry
+*.lock
+!yarn.lock
+jsconfig.json
+foundry
+
+./TODO
+
+# exclude distribution
+dist/
+
+# dont commit pack binaries, but src
+packs/*
+!packs/src

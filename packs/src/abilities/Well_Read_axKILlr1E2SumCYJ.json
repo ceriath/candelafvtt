@@ -1,0 +1,27 @@
+{
+  "folder": "FeHL1OMYpcHziIqi",
+  "name": "Well-Read",
+  "type": "Ability",
+  "_id": "axKILlr1E2SumCYJ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You&rsquo;re highly educated and retain knowledge better than&nbsp;most. When you use Intuition while making a roll, if you fail the roll,&nbsp;earn back any Intuition you used.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695078708635,
+    "modifiedTime": 1695078717670,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!axKILlr1E2SumCYJ"
+}

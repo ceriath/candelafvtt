@@ -1,0 +1,27 @@
+{
+  "folder": "5c9CgKqBwAMZtuCN",
+  "name": "Chemical Concoction",
+  "type": "Ability",
+  "_id": "psWaUr4B4fteRZ1P",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You know how to mix chemicals together to achieve particular effects. When you take Laboratory Equipment as gear, you may spend a few minutes concocting a mixture that is one of:</p>\n<ul>\n<li>acidic</li>\n<li>explosive</li>\n<li>flammable</li>\n<li>loud</li>\n<li>sleep-inducing</li>\n<li>sticky</li>\n<li>&nbsp;toxic</li>\n</ul>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695078768682,
+    "modifiedTime": 1695078941692,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!psWaUr4B4fteRZ1P"
+}

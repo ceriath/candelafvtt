@@ -1,0 +1,27 @@
+{
+  "folder": "5c9CgKqBwAMZtuCN",
+  "name": "Steel Mind",
+  "type": "Ability",
+  "_id": "XFuSBXmjSMj9Upds",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Once per assignment, when you should take a Brain&nbsp;mark, you may instead spend 2 Intuition to negate it</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695078741901,
+    "modifiedTime": 1695078746778,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!XFuSBXmjSMj9Upds"
+}

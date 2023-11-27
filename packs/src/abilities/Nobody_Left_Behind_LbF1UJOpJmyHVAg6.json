@@ -1,0 +1,27 @@
+{
+  "folder": "KQMl1Q0XhwyvdaSH",
+  "name": "Nobody Left Behind",
+  "type": "Ability",
+  "_id": "LbF1UJOpJmyHVAg6",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When a member of your circle takes a scar and drops&nbsp;incapacitated, any rolls a player makes in the scene to protect them or get them&nbsp;out of danger have +1d.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695078353593,
+    "modifiedTime": 1695078361010,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!LbF1UJOpJmyHVAg6"
+}

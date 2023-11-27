@@ -1,0 +1,27 @@
+{
+  "folder": "kKB0r8jGyMupDHFV",
+  "name": "Born in the Shadows",
+  "type": "Ability",
+  "_id": "BmMTchuIegB0mk6c",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>When attempting to avoid security or detection, gild an additional Hide die.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701118798487,
+    "modifiedTime": 1701118804055,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!BmMTchuIegB0mk6c"
+}

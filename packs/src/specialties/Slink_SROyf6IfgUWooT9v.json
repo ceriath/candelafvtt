@@ -1,0 +1,19 @@
+{
+  "name": "Slink",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "SROyf6IfgUWooT9v",
+  "sort": 0,
+  "color": "#4a4a4a",
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695079505864,
+    "modifiedTime": 1695079591785,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!folders!SROyf6IfgUWooT9v"
+}

@@ -1,0 +1,27 @@
+{
+  "folder": "afQN9FzKCimXAThh",
+  "name": "Anatomical Strike",
+  "type": "Ability",
+  "_id": "MRuyi9gQcWKrfMIR",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You know where the body is most vulnerable. When attacking an enemy, you may roll Focus instead of Strike.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701118693849,
+    "modifiedTime": 1701118695933,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!MRuyi9gQcWKrfMIR"
+}

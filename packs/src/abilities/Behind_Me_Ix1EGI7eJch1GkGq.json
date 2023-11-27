@@ -1,0 +1,27 @@
+{
+  "folder": "I5NXBGq8U9ujcUjJ",
+  "name": "Behind Me",
+  "type": "Ability",
+  "_id": "Ix1EGI7eJch1GkGq",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p><strong>Spend 1 Nerve</strong> to choose an ally in the same area as you&nbsp;who is about to take a mark from a phenomenon. Describe what you&nbsp;do that allows you to take the mark instead.&nbsp;</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Nh71YScXMKI1zIQp": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.308",
+    "createdTime": 1695079058134,
+    "modifiedTime": 1695079080305,
+    "lastModifiedBy": "Nh71YScXMKI1zIQp"
+  },
+  "_key": "!items!Ix1EGI7eJch1GkGq"
+}

@@ -1,0 +1,27 @@
+{
+  "folder": "FqC3vG5Vs4WtBY7l",
+  "name": "Narrow Escape",
+  "type": "Ability",
+  "_id": "0KxTaXZ8h2xajq5D",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You’ve been in numerous hairy situations during your fearless exploits. Add +1d to your Move roll when you attempt to escape a trap or ambush.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701118431685,
+    "modifiedTime": 1701118438161,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!0KxTaXZ8h2xajq5D"
+}

@@ -1,0 +1,27 @@
+{
+  "folder": "FZYxthrdGtyzcFcu",
+  "name": "Blood of the Covenant",
+  "type": "Ability",
+  "_id": "XvODIpewdd8sTQ9M",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>The first time a dangerous phenomenon inflicts a mark on anyone in your circle, you refresh a number of points, in any drive, equal to your current Intuition resistance.</p>",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "DJHzcdBMH1Gduffz": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.1",
+    "coreVersion": "11.315",
+    "createdTime": 1701119103382,
+    "modifiedTime": 1701119109233,
+    "lastModifiedBy": "DJHzcdBMH1Gduffz"
+  },
+  "_key": "!items!XvODIpewdd8sTQ9M"
+}
