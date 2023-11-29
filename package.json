@@ -14,7 +14,7 @@
     "last 3 versions"
   ],
   "author": "Ceriath",
-  "license": "MIT",
+  "license": "AGPL",
   "private": true,
   "devDependencies": {
     "@foundryvtt/foundryvtt-cli": "^1.0.0-rc.4",
