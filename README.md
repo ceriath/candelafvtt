@@ -12,6 +12,7 @@ There is an ingame compendium called "System Manual", that has a basic tutorial 
 
 - English
 - German
+- Spanish
 
 ## Contributing
 

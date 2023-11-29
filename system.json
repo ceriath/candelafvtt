@@ -70,6 +70,11 @@
       "lang": "de",
       "name": "German",
       "path": "lang/de.json"
+    },
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/en.json"
     }
   ],
   "compatibility": {
@@ -84,3 +89,4 @@
   "download": "https://github.com/ceriath/candelafvtt/releases/download/v0.0.1/candelafvtt-v0.0.1.zip",
   "changelog": "CHANGELOG.md"
 }
+

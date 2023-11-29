@@ -1,0 +1,58 @@
+{
+    "CANDELAFVTT.nerve": "Agallas",
+    "CANDELAFVTT.move": "Moverse",
+    "CANDELAFVTT.move-description": "correr, esquivar, sortear",
+    "CANDELAFVTT.strike": "Golpear",
+    "CANDELAFVTT.strike-description": "golpear, romper, derribar",
+    "CANDELAFVTT.control": "Controlar",
+    "CANDELAFVTT.control-description": "conducir, disparar, sutileza",
+
+    "CANDELAFVTT.cunning": "Ingenio",
+    "CANDELAFVTT.sway": "Influir",
+    "CANDELAFVTT.sway-description": "convencer, mandar, confraternizar",
+    "CANDELAFVTT.read": "Entender",
+    "CANDELAFVTT.read-description": "interpretar lenguaje corporal, detectar mentiras, leer motivaciones",
+    "CANDELAFVTT.hide": "Ocultarse",
+    "CANDELAFVTT.hide-description": "moverse sigilosamente, distraer, juego de manos",
+
+    "CANDELAFVTT.intuition": "Intuición",
+    "CANDELAFVTT.survey": "Examinar",
+    "CANDELAFVTT.survey-description": "buscar, rastrear, descubrir",
+    "CANDELAFVTT.focus": "Concentrarse",
+    "CANDELAFVTT.focus-description": "inspeccionar, analizar, recordar",
+    "CANDELAFVTT.sense": "Sentir",
+    "CANDELAFVTT.sense-description": "sintonizarse, canalizar, revelar",
+
+    "CANDELAFVTT.members": "Miembros",
+
+    "CANDELAFVTT.stitch": "Remendar",
+    "CANDELAFVTT.refresh": "Refrescar",
+    "CANDELAFVTT.train": "Entrenar",
+
+    "CANDELAFVTT.brain": "Mente",
+    "CANDELAFVTT.body": "Cuerpo",
+    "CANDELAFVTT.bleed": "Sangrado",
+
+    "CANDELAFVTT.drives": "Impulsos",
+    "CANDELAFVTT.resistances": "Resistencias",
+    "CANDELAFVTT.abilities": "Habilidades",
+    "CANDELAFVTT.illumination": "Iluminación",
+    "CANDELAFVTT.gear": "Equipo",
+    "CANDELAFVTT.actions": "Acciones",
+    "CANDELAFVTT.biography": "Biografía",
+    "CANDELAFVTT.marks": "Marcas",
+    "CANDELAFVTT.scars": "Secuelas",
+    "CANDELAFVTT.style": "Estilo",
+    "CANDELAFVTT.catalyst": "Detonante",
+    "CANDELAFVTT.question": "Pregunta",
+    "CANDELAFVTT.background": "Trasfondo",
+
+    "CANDELAFVTT.abilities-description": "Elige una durante la creación del personaje y otra cada vez que tu círculo avanza.",
+    "CANDELAFVTT.illumination-description": "Cuando el registro de Iluminación está lleno, vacía el registro. Cualquier Iluminación sobrante cuenta para el siguiente ciclo de avance. Entonces elige una nueva habilidad de círculo y todos los jugadores pueden elegir sus opciones de avance de personaje. Los círculos rojos representan hitos, que pueden tener beneficios mecánicos dependiendo de las habilidades escogidas por tu círculo.",
+
+    "CANDELAFVTT.driveBonus": "Añadir impulsos",
+    "CANDELAFVTT.driveBonusDescription": "Añade impulsos adicionales (tuyos o de tus compañeros investigadores)",
+    "CANDELAFVTT.roll": "¡Prueba suerte!",
+
+    "CANDELAFVTT.errors-invalid-spec": "¡La especialidad no es válida para el rol del personaje!"
+}
