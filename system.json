@@ -80,7 +80,7 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "manifest": "https://raw.githubusercontent.com/ceriath/candelafvtt/v.0.0.1/system.json",
+  "manifest": "https://raw.githubusercontent.com/ceriath/candelafvtt/v0.0.1/system.json",
   "download": "https://github.com/ceriath/candelafvtt/releases/download/v0.0.1/candelafvtt-v0.0.1.zip",
   "changelog": "CHANGELOG.md"
 }
