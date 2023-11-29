@@ -1,6 +1,6 @@
 {
   "id": "candelafvtt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Candela Obscura for Foundry (unofficial system)",
   "url": "https://github.com/ceriath/candelafvtt/",
   "description": "Unofficial basic implementation of the Candela Obscura Core Rulebook by Darrington Press",
@@ -86,7 +86,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "manifest": "https://github.com/ceriath/candelafvtt/releases/latest/download/system.json",
-  "download": "https://github.com/ceriath/candelafvtt/releases/download/v0.0.1/candelafvtt-v0.0.1.zip",
+  "download": "https://github.com/ceriath/candelafvtt/releases/download/v0.0.2/candelafvtt-v0.0.2.zip",
   "changelog": "CHANGELOG.md"
 }
 
