@@ -14,24 +14,20 @@ jobs:
         steps:
             - uses: actions/checkout@v2
 
-            - name: Extract tag version number
-              id: get_version
-              uses: battila7/get-version-action@v2
-
             - name: Substitute version in manifest
               uses: microsoft/variable-substitution@v1
               with:
                   files: 'system.json'
               env:
-                  version: ${{steps.get_version.outputs.version-without-v}}
-                  manifest: https://github.com/${{github.repository}}/releases/download/{{$github.event.release.tag_name}}/system.json
-                  download: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/candelafvtt-v${{steps.get_version.outputs.version-without-v}}.zip
+                  version: ${GITHUB_REF_NAME#v}
+                  manifest: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/system.json
+                  download: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/candelafvtt-${GITHUB_REF_NAME}.zip
 
             - name: Install dependencies and build
               run: |
                   npm install -g yarn
-                  npm ci
-                  sh build.sh
+                  yarn install
+                  sh build.sh ${GITHUB_REF_NAME#v}
 
             - name: Update release with files
               uses: ncipollo/release-action@v1
@@ -40,6 +36,6 @@ jobs:
                   name: ${{ github.event.release.name }}
                   draft: false
                   token: ${{ secrets.GITHUB_TOKEN }}
-                  artifacts: './system.json, ./dist/candelafvtt-v${{steps.get_version.outputs.version-without-v}}.zip'
+                  artifacts: './system.json, ./dist/candelafvtt-${GITHUB_REF_NAME}.zip'
                   tag: ${{ github.event.release.tag_name }}
                   body: ${{ github.event.release.body }}
