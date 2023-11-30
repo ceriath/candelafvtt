@@ -10,5 +10,5 @@ rm -rf dist/
 mkdir dist
 yarn gulp build
 yarn gulp pack
-zip -r dist/candelafvtt-v${1}.zip css/ img/ lang/ module/ packs/  templates/ ./CHANGELOG.md ./LICENSE.txt ./NOTES.md ./system.json ./template.json -x "packs/src/*"
+zip -r dist/candelafvtt-v${1}.zip css/ img/ lang/ module/ packs/  templates/ ./CHANGELOG.md ./LICENSE.txt ./THIRD-PARTY-LICENSE.txt ./system.json ./template.json -x "packs/src/*"
 cp system.json dist/
