@@ -21,7 +21,8 @@ There is an ingame compendium called "System Manual", that has a basic tutorial 
 
 ## Credits
 
-- This system and content is based on the [Candela Obscura Quickstart Guide](https://darringtonpress.com/candela/) written by Spenser Starke and Rowan Hall at Darrington Press and the [Candela Obscura Core Rulebook](https://darringtonpress.com/candela/) by Darrington Press under the [Darrington Press Community Gaming License](https://darringtonpress.com/license/). I don't have, nor do i claim, any rights regarding that content.
+- This system and content is based on the [Candela Obscura Quickstart Guide](https://darringtonpress.com/candela/) written by Spenser Starke and Rowan Hall at Darrington Press and the [Candela Obscura Core Rulebook](https://darringtonpress.com/candela/) by Darrington Press under the [Darrington Press Community Gaming License](https://darringtonpress.com/license/). I don't have, nor do i claim, any rights regarding that content.  
+If you like the system, you can find the books and more detail over at their Website [https://darringtonpress.com/candela/](https://darringtonpress.com/candela/)
 
 - The code has been based on the [Boilerplate System](https://gitlab.com/asacolips-projects/foundry-mods/boilerplate) by [Matt Smith (Asacolips)](https://github.com/asacolips) 
 
