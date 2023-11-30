@@ -7,6 +7,7 @@ then
 fi
 rm -rf packs/abilities/ packs/gear/ packs/manual/ packs/roles/ packs/specialties/
 rm -rf dist/
+rm -rf css/
 mkdir dist
 yarn gulp build
 yarn gulp pack

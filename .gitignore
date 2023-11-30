@@ -17,6 +17,7 @@ foundry
 
 # exclude distribution
 dist/
+css/
 
 # dont commit pack binaries, but src
 packs/*
