@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 0.0.3
+
+[BETA Release]
+- add License information to README and move it to THIRD-PARTY-LICENSE
+
 ## 0.0.2
 
 [BETA Release]
