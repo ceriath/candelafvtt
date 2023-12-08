@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 0.0.4
+
+[BETA Release]
+- drives are now editable (#3)
+
 ## 0.0.3
 
 [BETA Release]
