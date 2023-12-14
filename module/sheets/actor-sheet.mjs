@@ -165,6 +165,15 @@ export class CandelafvttActorSheet extends ActorSheet {
             li.slideUp(200, () => this.render(false));
         });
 
+        // Delete Inventory Item
+        html.find('.item-toggle-equip').click(ev => {
+            const li = $(ev.currentTarget).parents('.item');
+            const item = this.actor.items.get(li.data('itemId'));
+            let updateData = {};
+            updateData['system.equipped'] = !item.system.equipped;
+            item.update(updateData);
+        });
+
         if (this.actor.type == CANDELAFVTT.types.circle) {
             // illumination.
             html.find('.illumination-point').click(this.onIlluminationClick.bind(this));

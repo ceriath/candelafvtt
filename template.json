@@ -172,7 +172,8 @@
     "Gear": {
       "templates": [
         "base"
-      ]
+      ],
+      "equipped": false
     },
     "Ability": {
       "templates": [

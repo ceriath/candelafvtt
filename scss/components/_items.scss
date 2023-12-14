@@ -41,7 +41,7 @@
 
   // Item Name
   .item-name {
-    flex: 2;
+    flex: 6;
     margin: 0;
     overflow: hidden;
     font-size: 13px;
@@ -66,6 +66,31 @@
       text-align: center;
       margin: 0 6px;
     }
+  }
+
+  .item-equipped {
+    cursor: default;
+    caret-color: transparent;
+    align-items: center;
+    text-align: center;
+  }
+
+  .item-equipped > input {
+      appearance: none;
+      font-family: "Font Awesome 5 Free";
+      font-size: 21px;
+      cursor: pointer;
+      &::before {
+          content: "\f0e9";
+          font-weight: 400;
+          color: green;
+      }
+
+      &:checked::before {
+          content: "\f0e9";
+          font-weight: 900;
+          color: darkgreen;
+      }
   }
 
   // Individual Item
@@ -108,7 +133,12 @@
       font-size: 12px;
       text-align: center;
     }
-    .item-name {
+    .items-header-name {
+      padding-left: 5px;
+      text-align: left;
+      // font-size: 16px;
+    }
+    .items-header-equipped {
       padding-left: 5px;
       text-align: left;
       // font-size: 16px;
