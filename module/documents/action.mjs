@@ -56,6 +56,8 @@ export class Action {
             speaker: speaker,
             rollMode: rollMode,
             flavor: label,
+            type: CONST.CHAT_MESSAGE_TYPES.ROLL,
+            rolls: [r],
         };
 
         AudioHelper.play({ src: 'sounds/dice.wav', volume: 0.8, autoplay: true, loop: false }, true);
