@@ -61,6 +61,8 @@ export class CandelafvttItem extends Item {
                 speaker: speaker,
                 rollMode: rollMode,
                 flavor: label,
+                type: CONST.CHAT_MESSAGE_TYPES.ROLL,
+                rolls: [roll],
             });
             return roll;
         }
