@@ -100,6 +100,34 @@ Hooks.once('ready', async function () {
 });
 
 /* -------------------------------------------- */
+/*  Dice So Nice! customizations                */
+/* -------------------------------------------- */
+
+Hooks.once('diceSoNiceReady', (dice3d) => {
+    dice3d.addColorset({
+        name: 'standard',
+        description: 'Standard',
+        category: 'Colors',
+        foreground: ['#a4602c'],
+        background: ['#235156'],
+        outline: 'black',
+        texture: 'cloudy_2',
+    }, 'preferred');
+
+    dice3d.addColorset({
+        name: 'gilded',
+        description: 'Gilded',
+        category: 'Colors',
+        foreground: ['#007a73'],
+        background: ['#74594f'],
+        outline: 'black',
+        texture: 'cloudy_2',
+    });
+
+    dice3d.addSystem({ id: 'candelafvtt', name: 'Candela Obscura' }, 'preferred');
+});  
+
+/* -------------------------------------------- */
 /*  Hotbar Macros                               */
 /* -------------------------------------------- */
 
