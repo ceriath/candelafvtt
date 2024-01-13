@@ -1,11 +1,11 @@
 {
-  "folder": "eMq1spqAtgBgSeEC",
+  "folder": "yU9fHXAti9gx9tDe",
   "name": "Hand Weapon",
   "type": "Gear",
   "_id": "JM5DVCi5a1n3WoM4",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": ""
+    "description": "<p>A handgun, knife, brass knuckles, or other dangerous item that's easily concealed.</p>"
   },
   "effects": [],
   "sort": 0,

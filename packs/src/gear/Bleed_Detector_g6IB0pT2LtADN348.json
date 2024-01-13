@@ -1,11 +1,11 @@
 {
-  "folder": "eMq1spqAtgBgSeEC",
+  "folder": "yU9fHXAti9gx9tDe",
   "name": "Bleed Detector",
   "type": "Gear",
   "_id": "g6IB0pT2LtADN348",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": ""
+    "description": "<p>A small flashlight, a spyglass, a music box, or other mechanism that allows investigators to perceive the evidence of phenomena. </p>"
   },
   "effects": [],
   "sort": 0,
