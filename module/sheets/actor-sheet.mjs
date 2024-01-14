@@ -333,6 +333,8 @@ export class CandelafvttActorSheet extends ActorSheet {
                 speaker: ChatMessage.getSpeaker({ actor: this.actor }),
                 flavor: label,
                 rollMode: game.settings.get('core', 'rollMode'),
+                type: CONST.CHAT_MESSAGE_TYPES.ROLL,
+                rolls: [roll],
             });
             return roll;
         }
