@@ -1,0 +1,26 @@
+{
+  "folder": "BGIay6gbo6Tkaukq",
+  "name": "Make a Scene",
+  "type": "IlluminationKey",
+  "_id": "kQV6GMxbXkWOJoTl",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mm1zGnUd8T7aHRjq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705185232778,
+    "modifiedTime": 1705185232778,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!items!kQV6GMxbXkWOJoTl"
+}

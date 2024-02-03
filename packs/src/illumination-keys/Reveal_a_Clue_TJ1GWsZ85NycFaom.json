@@ -1,0 +1,26 @@
+{
+  "folder": "NV9ZQial1GS5No3A",
+  "name": "Reveal a Clue",
+  "type": "IlluminationKey",
+  "_id": "TJ1GWsZ85NycFaom",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mm1zGnUd8T7aHRjq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705185207767,
+    "modifiedTime": 1705185207767,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!items!TJ1GWsZ85NycFaom"
+}

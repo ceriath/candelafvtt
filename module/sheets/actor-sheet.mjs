@@ -119,6 +119,7 @@ export class CandelafvttActorSheet extends ActorSheet {
         // Initialize containers.
         const gear = [];
         const abilities = [];
+        const illuminationKeys = [];
 
         // Iterate through items, allocating to containers
         for (let i of context.items) {
@@ -130,11 +131,15 @@ export class CandelafvttActorSheet extends ActorSheet {
             else if (i.type === CONFIG.CANDELAFVTT.types.ability) {
                 abilities.push(i);
             }
+            else if (i.type === CONFIG.CANDELAFVTT.types.illuminationKey) {
+                illuminationKeys.push(i);
+            }
         }
 
         // Assign and return
         context.gear = gear;
         context.abilities = abilities;
+        context.illuminationKeys = illuminationKeys;
     }
 
     /* -------------------------------------------- */

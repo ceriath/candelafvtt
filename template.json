@@ -162,7 +162,8 @@
       "Ability",
       "Gear",
       "Role",
-      "Specialty"
+      "Specialty",
+      "IlluminationKey"
     ],
     "templates": {
       "base": {
@@ -215,6 +216,11 @@
           "sense": 0
         }
       }
+    },
+    "IlluminationKey": {
+      "templates": [
+        "base"
+      ]
     }
   }
 }

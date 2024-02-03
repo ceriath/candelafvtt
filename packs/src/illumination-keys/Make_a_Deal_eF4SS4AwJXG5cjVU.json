@@ -1,0 +1,26 @@
+{
+  "folder": "xZhXrPn3xxJSB9qr",
+  "name": "Make a Deal",
+  "type": "IlluminationKey",
+  "_id": "eF4SS4AwJXG5cjVU",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mm1zGnUd8T7aHRjq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705185179829,
+    "modifiedTime": 1705185179829,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!items!eF4SS4AwJXG5cjVU"
+}

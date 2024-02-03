@@ -1,0 +1,19 @@
+{
+  "name": "Criminal",
+  "sorting": "a",
+  "folder": "lvup5wRFwGSQS3Pv",
+  "type": "Item",
+  "_id": "xZhXrPn3xxJSB9qr",
+  "sort": null,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705185015097,
+    "modifiedTime": 1706970469453,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!folders!xZhXrPn3xxJSB9qr"
+}

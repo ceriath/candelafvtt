@@ -1,0 +1,19 @@
+{
+  "name": "Detective",
+  "sorting": "a",
+  "folder": "lvup5wRFwGSQS3Pv",
+  "type": "Item",
+  "_id": "NV9ZQial1GS5No3A",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705185029718,
+    "modifiedTime": 1706970469453,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!folders!NV9ZQial1GS5No3A"
+}

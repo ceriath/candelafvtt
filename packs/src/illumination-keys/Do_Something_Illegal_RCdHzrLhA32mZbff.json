@@ -1,0 +1,26 @@
+{
+  "folder": "xZhXrPn3xxJSB9qr",
+  "name": "Do Something Illegal",
+  "type": "IlluminationKey",
+  "_id": "RCdHzrLhA32mZbff",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mm1zGnUd8T7aHRjq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705185170889,
+    "modifiedTime": 1705185170889,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!items!RCdHzrLhA32mZbff"
+}

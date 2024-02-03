@@ -51,6 +51,15 @@
       "flags": {}
     },
     {
+      "name": "illumination-keys",
+      "label": "Illumination Keys",
+      "system": "candelafvtt",
+      "path": "packs/illumination-keys",
+      "type": "Item",
+      "private": false,
+      "flags": {}
+    },
+    {
       "name": "manual",
       "label": "System Manual",
       "system": "candelafvtt",

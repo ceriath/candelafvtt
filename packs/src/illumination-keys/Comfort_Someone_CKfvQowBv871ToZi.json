@@ -1,0 +1,26 @@
+{
+  "folder": "pl0cHdkcCE1sIczc",
+  "name": "Comfort Someone",
+  "type": "IlluminationKey",
+  "_id": "CKfvQowBv871ToZi",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mm1zGnUd8T7aHRjq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705185129965,
+    "modifiedTime": 1705185129965,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!items!CKfvQowBv871ToZi"
+}

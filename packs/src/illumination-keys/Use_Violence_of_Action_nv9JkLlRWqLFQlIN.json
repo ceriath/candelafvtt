@@ -1,0 +1,27 @@
+{
+  "folder": "14cxmuahEG1PHyVk",
+  "name": "Use Violence of Action",
+  "type": "IlluminationKey",
+  "_id": "nv9JkLlRWqLFQlIN",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mm1zGnUd8T7aHRjq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705185088561,
+    "modifiedTime": 1705185088561,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!items!nv9JkLlRWqLFQlIN"
+}
