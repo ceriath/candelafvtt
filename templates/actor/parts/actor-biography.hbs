@@ -4,6 +4,7 @@
     <a class='item' data-tab='bio-style'>{{localize 'CANDELAFVTT.style'}}</a>
     <a class='item' data-tab='bio-catalyst'>{{localize 'CANDELAFVTT.catalyst'}}</a>
     <a class='item' data-tab='bio-question'>{{localize 'CANDELAFVTT.question'}}</a>
+    <a class='item' data-tab='bio-illuminationKeys'>{{localize 'CANDELAFVTT.illuminationKeys'}}</a>
 </nav>
 
 <section class='bio-body'>
@@ -22,6 +23,9 @@
     </div>
     <div class='tab biography' data-group='primary' data-tab='bio-question'>
         {{editor system.question target='system.question' rollData=rollData button=true owner=owner editable=editable engine='prosemirror' class='prosemirror-editor'}}
+    </div>
+    <div class='tab biography' data-group='primary' data-tab='bio-illuminationKeys'>
+        {{> 'systems/candelafvtt/templates/actor/parts/actor-illumination-keys.hbs' }}
     </div>
 
 </section>

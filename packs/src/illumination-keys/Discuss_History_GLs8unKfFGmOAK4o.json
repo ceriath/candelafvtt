@@ -1,0 +1,26 @@
+{
+  "folder": "a8ffmH3E5ytK24M1",
+  "name": "Discuss History",
+  "type": "IlluminationKey",
+  "_id": "GLs8unKfFGmOAK4o",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mm1zGnUd8T7aHRjq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705185068131,
+    "modifiedTime": 1705185068131,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!items!GLs8unKfFGmOAK4o"
+}

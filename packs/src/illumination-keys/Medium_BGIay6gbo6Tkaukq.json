@@ -1,0 +1,19 @@
+{
+  "name": "Medium",
+  "sorting": "a",
+  "folder": "IK8e5DeK48CPpkBL",
+  "type": "Item",
+  "_id": "BGIay6gbo6Tkaukq",
+  "sort": 0,
+  "color": "#0b5c05",
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705185033007,
+    "modifiedTime": 1706970488828,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!folders!BGIay6gbo6Tkaukq"
+}

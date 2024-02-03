@@ -1,0 +1,19 @@
+{
+  "name": "Professor",
+  "sorting": "a",
+  "folder": "PpECaxCofC2uTe2r",
+  "type": "Item",
+  "_id": "KrYqeLki86Wf12Id",
+  "sort": 0,
+  "color": "#807ee2",
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705185009867,
+    "modifiedTime": 1706970469453,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!folders!KrYqeLki86Wf12Id"
+}

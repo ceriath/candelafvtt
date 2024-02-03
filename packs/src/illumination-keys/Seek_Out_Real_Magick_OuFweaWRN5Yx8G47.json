@@ -1,0 +1,27 @@
+{
+  "folder": "UlhFfbdBMRIYpdgK",
+  "name": "Seek Out Real Magick",
+  "type": "IlluminationKey",
+  "_id": "OuFweaWRN5Yx8G47",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mm1zGnUd8T7aHRjq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705184225327,
+    "modifiedTime": 1705184225327,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!items!OuFweaWRN5Yx8G47"
+}

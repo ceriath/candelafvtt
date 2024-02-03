@@ -17,4 +17,5 @@ CANDELAFVTT.types = {
     gear: 'Gear',
     role: 'Role',
     specialty: 'Specialty',
+    illuminationKey: 'IlluminationKey',
 };

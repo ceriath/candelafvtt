@@ -1,0 +1,26 @@
+{
+  "folder": "QauwrkpN8cVgHVGO",
+  "name": "Consult Arcane Texts",
+  "type": "IlluminationKey",
+  "_id": "KvDpHT9DGxYQkcRi",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mm1zGnUd8T7aHRjq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705185242577,
+    "modifiedTime": 1705185242577,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!items!KvDpHT9DGxYQkcRi"
+}

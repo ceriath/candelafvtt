@@ -12,5 +12,6 @@ export const preloadHandlebarsTemplates = async function () {
         'systems/candelafvtt/templates/actor/parts/actor-actions.hbs',
         'systems/candelafvtt/templates/actor/parts/actor-biography.hbs',
         'systems/candelafvtt/templates/actor/parts/actor-members.hbs',
+        'systems/candelafvtt/templates/actor/parts/actor-illumination-keys.hbs',
     ]);
 };

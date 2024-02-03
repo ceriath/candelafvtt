@@ -1,0 +1,26 @@
+{
+  "folder": "KrYqeLki86Wf12Id",
+  "name": "Mentor an Ally",
+  "type": "IlluminationKey",
+  "_id": "VD0H8iuRUO0O7Mdo",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mm1zGnUd8T7aHRjq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705185145488,
+    "modifiedTime": 1705185145488,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!items!VD0H8iuRUO0O7Mdo"
+}

@@ -1,0 +1,26 @@
+{
+  "folder": "pl0cHdkcCE1sIczc",
+  "name": "Avoid a Fight",
+  "type": "IlluminationKey",
+  "_id": "DsdVdEcSWVlcDRWd",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mm1zGnUd8T7aHRjq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705185112886,
+    "modifiedTime": 1705185112886,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!items!DsdVdEcSWVlcDRWd"
+}

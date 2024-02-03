@@ -1,0 +1,27 @@
+{
+  "folder": "NV9ZQial1GS5No3A",
+  "name": "Track a Target",
+  "type": "IlluminationKey",
+  "_id": "FNEYQEQif33Jpkay",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mm1zGnUd8T7aHRjq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705185201378,
+    "modifiedTime": 1705185201378,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!items!FNEYQEQif33Jpkay"
+}

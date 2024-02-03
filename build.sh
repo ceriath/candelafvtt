@@ -5,7 +5,7 @@ then
     echo "version number required, e.g. ./build.sh 1.0.0"
     exit 1
 fi
-rm -rf packs/abilities/ packs/gear/ packs/manual/ packs/roles/ packs/specialties/
+rm -rf packs/abilities/ packs/gear/ packs/manual/ packs/roles/ packs/specialties/ packs/illumination-keys/
 rm -rf dist/
 rm -rf css/
 mkdir dist

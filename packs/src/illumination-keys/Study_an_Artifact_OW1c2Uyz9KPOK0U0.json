@@ -1,0 +1,27 @@
+{
+  "folder": "a8ffmH3E5ytK24M1",
+  "name": "Study an Artifact",
+  "type": "IlluminationKey",
+  "_id": "OW1c2Uyz9KPOK0U0",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mm1zGnUd8T7aHRjq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705185060368,
+    "modifiedTime": 1705185060368,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!items!OW1c2Uyz9KPOK0U0"
+}

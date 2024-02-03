@@ -1,0 +1,19 @@
+{
+  "name": "Journalist",
+  "sorting": "a",
+  "folder": "fAElPjfqnPRSkm9d",
+  "type": "Item",
+  "_id": "6Ro3s1yWRxFMGQjO",
+  "sort": 0,
+  "color": "#3dae97",
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705183450284,
+    "modifiedTime": 1706970469453,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!folders!6Ro3s1yWRxFMGQjO"
+}

@@ -41,6 +41,7 @@ async function packAll() {
     await fvtt.compilePack('packs/src/roles', 'packs/roles');
     await fvtt.compilePack('packs/src/gear', 'packs/gear');
     await fvtt.compilePack('packs/src/manual', 'packs/manual');
+    await fvtt.compilePack('packs/src/illumination-key', 'packs/illumination-key');
 }
 
 async function unpackAll() {
@@ -51,6 +52,7 @@ async function unpackAll() {
     await fvtt.extractPack('packs/roles', 'packs/src/roles');
     await fvtt.extractPack('packs/gear', 'packs/src/gear');
     await fvtt.extractPack('packs/manual', 'packs/src/manual');
+    await fvtt.extractPack('packs/illumination-keys', 'packs/src/illumination-keys');
 }
 
 /* ----------------------------------------- */

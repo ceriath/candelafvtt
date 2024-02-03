@@ -1,0 +1,27 @@
+{
+  "folder": "6Ro3s1yWRxFMGQjO",
+  "name": "Speak Truth to Power",
+  "type": "IlluminationKey",
+  "_id": "YqGq7NeKIOtUznP7",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "subtype": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "mm1zGnUd8T7aHRjq": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "candelafvtt",
+    "systemVersion": "0.0.4",
+    "coreVersion": "11.315",
+    "createdTime": 1705184185311,
+    "modifiedTime": 1705184185311,
+    "lastModifiedBy": "mm1zGnUd8T7aHRjq"
+  },
+  "_key": "!items!YqGq7NeKIOtUznP7"
+}
