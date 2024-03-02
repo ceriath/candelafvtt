@@ -46,6 +46,7 @@
     "CANDELAFVTT.catalyst": "Detonante",
     "CANDELAFVTT.question": "Pregunta",
     "CANDELAFVTT.background": "Trasfondo",
+    "CANDELAFVTT.illuminationKeys": "Illumination Keys",
 
     "CANDELAFVTT.abilities-description": "Elige una durante la creación del personaje y otra cada vez que tu círculo avanza.",
     "CANDELAFVTT.illumination-description": "Cuando el registro de Iluminación está lleno, vacía el registro. Cualquier Iluminación sobrante cuenta para el siguiente ciclo de avance. Entonces elige una nueva habilidad de círculo y todos los jugadores pueden elegir sus opciones de avance de personaje. Los círculos rojos representan hitos, que pueden tener beneficios mecánicos dependiendo de las habilidades escogidas por tu círculo.",
