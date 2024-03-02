@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.0.5
+
+[ BETA Release]
+- add 'Dice So Nice!' integration by @juraj-visnovsky in [#6](https://github.com/ceriath/candelafvtt/pull/6)
+- add equip checkbox for gear [#5](https://github.com/ceriath/candelafvtt/issues/5)
+
 ## 0.0.4
 
 [BETA Release]
