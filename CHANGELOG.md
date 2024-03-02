@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 0.0.6
+
+[ BETA Release]
+- add illumination keys [#8](https://github.com/ceriath/candelafvtt/issues/8) by @juraj-visnovsky in [#9](https://github.com/ceriath/candelafvtt/pull/9)
+
 ## 0.0.5
 
 [ BETA Release]
