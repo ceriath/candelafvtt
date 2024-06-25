@@ -1,7 +1,11 @@
-const gulp = require('gulp');
-const prefix = require('gulp-autoprefixer');
-const sourcemaps = require('gulp-sourcemaps');
-const sass = require('gulp-sass')(require('sass'));
+
+// const sass = require('gulp-sass')(require('sass'));
+import gulp from 'gulp';
+import sourcemaps from 'gulp-sourcemaps';
+import prefix from 'gulp-autoprefixer';
+import gulpSass from 'gulp-sass';
+import dartSass from 'sass';
+const sass = gulpSass(dartSass);
 
 /* ----------------------------------------- */
 /*  Compile Sass
@@ -67,8 +71,7 @@ function watchUpdates() {
 /*  Export Tasks
 /* ----------------------------------------- */
 
-exports.default = gulp.series(compileScss, watchUpdates);
-exports.build = gulp.series(compileScss);
-exports.pack = gulp.series(packAll);
-exports.unpack = gulp.series(unpackAll);
-exports.css = css;
+gulp.task('build', gulp.series(compileScss))
+gulp.task('pack', gulp.series(packAll))
+gulp.task('unpack', gulp.series(unpackAll))
+gulp.task('default', gulp.series(compileScss, watchUpdates))
