@@ -8,11 +8,16 @@
   "authors": [
     {
       "name": "Ceriath",
-      "url": "https://github.com/ceriath"
+      "url": "https://github.com/ceriath",
+      "flags": {}
     }
   ],
-  "esmodules": ["module/candelafvtt.mjs"],
-  "styles": ["css/candelafvtt.css"],
+  "esmodules": [
+    "module/candelafvtt.mjs"
+  ],
+  "styles": [
+    "css/candelafvtt.css"
+  ],
   "packs": [
     {
       "name": "roles",
@@ -20,8 +25,11 @@
       "system": "candelafvtt",
       "path": "packs/roles",
       "type": "Item",
-      "private": false,
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "specialties",
@@ -29,8 +37,11 @@
       "system": "candelafvtt",
       "path": "packs/specialties",
       "type": "Item",
-      "private": false,
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "abilities",
@@ -38,8 +49,11 @@
       "system": "candelafvtt",
       "path": "packs/abilities",
       "type": "Item",
-      "private": false,
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "gear",
@@ -47,8 +61,11 @@
       "system": "candelafvtt",
       "path": "packs/gear",
       "type": "Item",
-      "private": false,
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "illumination-keys",
@@ -56,8 +73,11 @@
       "system": "candelafvtt",
       "path": "packs/illumination-keys",
       "type": "Item",
-      "private": false,
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "manual",
@@ -65,37 +85,46 @@
       "system": "candelafvtt",
       "path": "packs/manual",
       "type": "JournalEntry",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "LIMITED",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "languages": [
     {
       "lang": "en",
       "name": "English",
-      "path": "lang/en.json"
+      "path": "lang/en.json",
+      "flags": {}
     },
     {
       "lang": "de",
       "name": "German",
-      "path": "lang/de.json"
+      "path": "lang/de.json",
+      "flags": {}
     },
     {
       "lang": "es",
       "name": "Español",
-      "path": "lang/es.json"
+      "path": "lang/es.json",
+      "flags": {}
     }
   ],
   "compatibility": {
     "minimum": "11",
-    "verified": "11"
+    "verified": "12"
   },
   "gridDistance": 5,
   "gridUnits": "ft",
+  "grid": {
+    "distance": 5,
+    "units": "ft"
+  },
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "manifest": "https://github.com/ceriath/candelafvtt/releases/latest/download/system.json",
-  "download": "https://github.com/ceriath/candelafvtt/releases/download/v0.0.4/candelafvtt-v0.0.4.zip",
+  "download": "https://github.com/ceriath/candelafvtt/releases/download/v0.0.6/candelafvtt-v0.0.6.zip",
   "changelog": "CHANGELOG.md"
 }
-
