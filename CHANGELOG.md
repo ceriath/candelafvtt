@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 0.0.7
+
+[ BETA Release]
+- add Foundry VTT v12 compatibility
+- removed renamed ability
+- update javascript dependencies
+
 ## 0.0.6
 
 [ BETA Release]
