@@ -1,0 +1,60 @@
+{
+    "CANDELAFVTT.nerve": "Volonté",
+    "CANDELAFVTT.move": "Déplacement",
+    "CANDELAFVTT.move-description": "courir, esquiver, naviguer",
+    "CANDELAFVTT.strike": "Frapper",
+    "CANDELAFVTT.strike-description": "cogner, briser, mettre à terre",
+    "CANDELAFVTT.control": "Contrôle",
+    "CANDELAFVTT.control-description": "conduite, tir, subtilité",
+    
+    "CANDELAFVTT.cunning": "Ruse",
+    "CANDELAFVTT.sway": "Influence",
+    "CANDELAFVTT.sway-description": "convaincre, commander, pactiser",
+    "CANDELAFVTT.read": "Interprétation",
+    "CANDELAFVTT.read-description": "interpréter le langage corporel, repérer les mensonges, déduire l’intention",
+    "CANDELAFVTT.hide": "Discrétion",
+    "CANDELAFVTT.hide-description": "se faufiler, distraire, escamotage",
+    
+    "CANDELAFVTT.intuition": "Intuition",
+    "CANDELAFVTT.survey": "Enquêter",
+    "CANDELAFVTT.survey-description": "rechercher, traquer, détecter",
+    "CANDELAFVTT.focus": "Concentration",
+    "CANDELAFVTT.focus-description": "inspecter, analyser, se souvenir",
+    "CANDELAFVTT.sense": "Raison",
+    "CANDELAFVTT.sense-description": "S’harmoniser, communication avec les esprits, révéler",
+
+    "CANDELAFVTT.members": "Membres",
+
+    "CANDELAFVTT.stitch": "Point de suture",
+    "CANDELAFVTT.refresh": "Requinquer",
+    "CANDELAFVTT.train": "S'entraîner",
+
+    "CANDELAFVTT.brain": "Mental",
+    "CANDELAFVTT.body": "Physique",
+    "CANDELAFVTT.bleed": "Corruption",
+
+    "CANDELAFVTT.drives": "Pulsions",
+    "CANDELAFVTT.resistances": "Résistance",
+    "CANDELAFVTT.abilities": "Aptitude",
+    "CANDELAFVTT.illumination": "Illumination",
+    "CANDELAFVTT.gear": "Équipement",
+    "CANDELAFVTT.actions": "Actions",
+    "CANDELAFVTT.biography": "Biographie",
+    "CANDELAFVTT.marks": "Dégâts",
+    "CANDELAFVTT.scars": "Cicatrices",
+    "CANDELAFVTT.style": "Style",
+    "CANDELAFVTT.catalyst": "Catalyseur",
+    "CANDELAFVTT.question": "Question",
+    "CANDELAFVTT.background": "Antécédents",
+    "CANDELAFVTT.illuminationKeys": "Points d’illumination",
+
+    "CANDELAFVTT.abilities-description": "Choisissez-en un à la création de votre personnage et un à chaque fois que votre cercle progresse.",
+    "CANDELAFVTT.illumination-description": "Lorsque la piste d'illumination est pleine, effacez-la. Toute Illumination restante compte pour votre prochain cycle d'avancement. Choisissez ensuite une nouvelle capacité de cercle, et tous les joueurs peuvent choisir les options d'avancement de leur personnage. Les cercles rouges représentent des étapes, qui peuvent avoir des avantages mécaniques en fonction des capacités choisies par votre cercle.",
+
+    "CANDELAFVTT.driveBonus": "Ajouter des pulsions",
+    "CANDELAFVTT.driveBonusDescription": "Ajoutez les pulsions supplémentaires sur vous ou sur vos collègues enquêteurs",
+    "CANDELAFVTT.roll": "Testez votre chance !",
+
+    "CANDELAFVTT.errors-invalid-spec": "La spécialité sélectionnée n'est pas valide pour le rôle choisi !"
+
+}
