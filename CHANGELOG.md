@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 0.0.8
+
+[BETA Release]
+- add French translation [#19](https://github.com/ceriath/candelafvtt/pull/19) (thanks [@soleilpapa](https://github.com/soleilpapa))
+
 ## 0.0.7
 
 [ BETA Release]

@@ -1,6 +1,7 @@
 # Candela Obscura for Foundry VTT
 
 ![Foundry v11](https://img.shields.io/badge/foundry-v11-green)
+![Foundry v12](https://img.shields.io/badge/foundry-v12-green)
 
 This system is an unofficial, basic implementation of the Candela Obscura Core Rulebook by Darrington Press.
 
