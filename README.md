@@ -17,7 +17,7 @@ There is an ingame compendium called "System Manual", that has a basic tutorial 
 
 ## Contributing
 
-- If you have any issues with the system, please open a issue at [Github](https://github.com/ceriath/candela-fvtt).
+- If you have any issues with the system, please open a issue at [Github](https://github.com/ceriath/candelafvtt).
 - If you have any improvements (including translations), feel free to open a pull request, i am happy to review and merge them!
 
 ## Credits
