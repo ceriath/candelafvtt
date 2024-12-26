@@ -8,41 +8,50 @@ export class Action {
      * @param {string} actionId The key id of the action
      */
     static async rollAction(action, actionId) {
-        const drives = await this._prepareActionRoll(actionId);
-        if (drives == null) return; // dialog canceled
+        const result = await this._prepareActionRoll(actionId);
+        if (result == null) return; // dialog canceled
+        const [drives, extraGildedDice] = result
 
-        const diceCount = action.value + drives;
-        let r;
+        const actionGilded = action.gilded ? 1 : 0
+        const normalDice = action.value - actionGilded + drives
+        const gildedDice = actionGilded + extraGildedDice
+        var dice = []
 
-        if (diceCount == 0) {
-            // no action rating, roll two dice and keep lower result
-            const normalDice = new Die({
-                number: 2,
-                faces: 6,
-                modifiers: ['kl'],
-            });
-            r = Roll.fromTerms([normalDice]);
-        } else if (action.gilded) {
-            // gilded action, replace one die with a gilded die
-            const normalDice = new Die({
-                number: diceCount - 1,
+        if (normalDice > 0) {
+            // normal dice
+            const die = new Die({
+                number: normalDice,
                 faces: 6,
                 modifiers: ['kh'],
             });
-            const plus = new OperatorTerm({ operator: '+' });
-            const gildedDice = new Die({
-                number: 1,
+            dice = [die]
+        }
+        if (gildedDice > 0) {
+            // gilded dice
+            const die = new Die({
+                number: gildedDice,
                 faces: 6,
                 options: { flavor: 'gilded' },
                 modifiers: ['kh'],
             });
-            r = Roll.fromTerms([normalDice, plus, gildedDice]);
-        } else {
-            // normal roll
-            const normalDice = new Die({ number: diceCount, faces: 6 });
-            r = Roll.fromTerms([normalDice]);
+            if (dice.length > 0) {
+                const plus = new OperatorTerm({ operator: '+' });
+                dice.push(plus)
+            }
+            dice.push(die)
         }
 
+        if (!dice.length) {
+            // no dice, roll with disadvantage
+            const die = new Die({
+                number: 2,
+                faces: 6,
+                modifiers: ['kl'],
+            });
+            dice = [die]
+        }
+
+        let r = Roll.fromTerms(dice);
         await r.evaluate();
 
         // construct chat message
@@ -104,6 +113,7 @@ export class Action {
     static async _onRollDialogSubmit(html) {
         const form = html[0].querySelector('form');
         const drives = parseInt(form.drives.value);
-        return drives;
+        const gildedDice = parseInt(form.gildedDice.value);
+        return [drives, gildedDice];
     }
 }

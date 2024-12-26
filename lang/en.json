@@ -53,6 +53,8 @@
 
     "CANDELAFVTT.driveBonus": "Add drives",
     "CANDELAFVTT.driveBonusDescription": "Add additional drives from yourself or your fellow investigators",
+    "CANDELAFVTT.gildedDiceBonus": "Add gilded dice",
+    "CANDELAFVTT.gildedDiceDescription": "Add additional gilded dice, for example from Stamina Training",
     "CANDELAFVTT.roll": "Test your luck!",
 
     "CANDELAFVTT.errors-invalid-spec": "The selected specialty is invalid for your selected role!"
