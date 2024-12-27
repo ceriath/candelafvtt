@@ -12,7 +12,7 @@ export class Action {
         if (result == null) return; // dialog canceled
         const [drives, extraGildedDice] = result
 
-        const actionGilded = action.gilded ? (action.value > 0 ? 1 : 0) : 0
+        const actionGilded = (action.gilded && action.value > 0) ? 1 : 0
         const normalDice = action.value - actionGilded + drives
         const gildedDice = actionGilded + extraGildedDice
         var dice = []
