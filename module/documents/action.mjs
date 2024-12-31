@@ -48,7 +48,7 @@ export class Action {
         // construct chat message
         const speaker = ChatMessage.getSpeaker({ actor: this.actor });
         const rollMode = game.settings.get('core', 'rollMode');
-        const label = `[action] ${actionId}`;
+        const label = `[action] ` + game.i18n.localize(`CANDELAFVTT.${actionId}`);
         const content = await renderTemplate('systems/candelafvtt/templates/chat/roll.hbs', r);
 
         const msg = {
@@ -73,7 +73,7 @@ export class Action {
      * @private
      */
     static async _prepareActionRoll(actionId) {
-        let title = actionId;
+        let title = game.i18n.localize(`CANDELAFVTT.${actionId}`);
         let content = await renderTemplate('systems/candelafvtt/templates/chat/roll-dialog.hbs');
         let options = {};
 
