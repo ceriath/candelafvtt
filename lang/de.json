@@ -53,6 +53,9 @@
   "CANDELAFVTT.itemCreate": "Create Item",
   "CANDELAFVTT.itemEdit": "Edit Item",
   "CANDELAFVTT.itemDelete": "Delete Item",
+  "CANDELAFVTT.itemDescription": "Description",
+  "CANDELAFVTT.itemAttributes": "Attributess",
+  "CANDELAFVTT.itemActionRatings": "Action Ratings",
 
   "CANDELAFVTT.abilityAdd": "Add Ability",
 

@@ -53,6 +53,9 @@
     "CANDELAFVTT.itemCreate": "Criar Item",
     "CANDELAFVTT.itemEdit": "Editar Item",
     "CANDELAFVTT.itemDelete": "Apagar Item",
+    "CANDELAFVTT.itemDescription": "Descrição",
+    "CANDELAFVTT.itemAttributes": "Atributos",
+    "CANDELAFVTT.itemActionRatings": "Valores de Ação",
 
     "CANDELAFVTT.abilityAdd": "Adicionar Especialidade",
 
