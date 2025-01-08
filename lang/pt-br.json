@@ -48,6 +48,18 @@
     "CANDELAFVTT.background": "Background",
     "CANDELAFVTT.illuminationKeys": "Chaves de Iluminação",
 
+    "CANDELAFVTT.itemEquipped": "Equipado",
+    "CANDELAFVTT.itemName": "Nome",
+    "CANDELAFVTT.itemCreate": "Criar Item",
+    "CANDELAFVTT.itemEdit": "Editar Item",
+    "CANDELAFVTT.itemDelete": "Apagar Item",
+
+    "CANDELAFVTT.abilityAdd": "Adicionar Especialidade",
+
+    "CANDELAFVTT.gearAdd": "Adicionar Equipamento",
+
+    "CANDELAFVTT.illuminationKeyAdd": "Adicionar Chave de Iluminação",
+
     "CANDELAFVTT.abilities-description": "Escolha um na criação de personagem e uma sempre que seu circulo avançar.",
     "CANDELAFVTT.illumination-description": "Quando o contador de Iluminação estiver cheio, apague-o. QUalquer iluminação restante contará para seu próximo circulo de avanço. Em seguida, escolha uma nova habilidade de circulo, todos os jogadores podem escolher suas opções de avanço de personagem. Os circulos em negrito representam marcos, os quais podem beneficiar nas mecânicas, dependendo das habilidades que o circulo possui.",
 

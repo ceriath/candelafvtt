@@ -48,6 +48,18 @@
     "CANDELAFVTT.background": "Background",
     "CANDELAFVTT.illuminationKeys": "Illumination Keys",
 
+    "CANDELAFVTT.itemEquipped": "Equipped",
+    "CANDELAFVTT.itemName": "Name",
+    "CANDELAFVTT.itemCreate": "Create Item",
+    "CANDELAFVTT.itemEdit": "Edit Item",
+    "CANDELAFVTT.itemDelete": "Delete Item",
+
+    "CANDELAFVTT.abilityAdd": "Add Ability",
+
+    "CANDELAFVTT.gearAdd": "Add Gear",
+
+    "CANDELAFVTT.illuminationKeyAdd": "Add Illumination Key",
+
     "CANDELAFVTT.abilities-description": "Choose one at character creation and one each time your circle advances.",
     "CANDELAFVTT.illumination-description": "When the Illumination track is full, clear the track. Any leftover Illumination counts toward your next advancement cycle. Then choose a new circle ability, and all players can choose their character advancement options. The red circles represent milestones, which may have mechanical benefits depending on what abilities your circle chooses.",
 

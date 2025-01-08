@@ -2,7 +2,7 @@
     <li class='item flexrow items-header align-right'>
         <div class='item-controls'>
             <a class='item-control item-create' title='Create Illumination Key' data-type='IlluminationKey'>
-                <i class='fas fa-plus'></i> Add Illumination Key
+                <i class='fas fa-plus'></i> {{localize 'CANDELAFVTT.illuminationKeyAdd'}}
             </a>
         </div>
     </li>
@@ -15,8 +15,8 @@
             <h4>{{illuminationKey.name}}</h4>
         </div>
         <div class='item-controls'>
-            <a class='item-control item-edit' title='Edit Item'><i class='fas fa-edit'></i></a>
-            <a class='item-control item-delete' title='Delete Item'><i class='fas fa-trash'></i></a>
+            <a class='item-control item-edit' title='{{localize 'CANDELAFVTT.itemEdit'}}'><i class='fas fa-edit'></i></a>
+            <a class='item-control item-delete' title='{{localize 'CANDELAFVTT.itemDelete'}}'><i class='fas fa-trash'></i></a>
         </div>
     </li>
     {{/each}}
