@@ -1,9 +1,9 @@
 <ol class='items-list'>
     <li class='item flexrow items-header'>
-        <div class='items-header-equipped'>Equipped</div>
-        <div class='items-header-name'>Name</div>
+        <div class='items-header-equipped'>{{localize 'CANDELAFVTT.itemEquipped'}}</div>
+        <div class='items-header-name'>{{localize 'CANDELAFVTT.itemName'}}</div>
         <div class='item-controls'>
-            <a class='item-control item-create' title='Create item' data-type='Gear'><i class='fas fa-plus'></i> Add Gear</a>
+            <a class='item-control item-create' title={{localize 'CANDELAFVTT.itemCreate'}} data-type='Gear'><i class='fas fa-plus'></i>{{localize 'CANDELAFVTT.gearAdd'}}</a>
         </div>
     </li>
     {{#each gear as |item id|}}
@@ -18,8 +18,8 @@
                 <h4>{{item.name}}</h4>
             </div>
             <div class='item-controls'>
-                <a class='item-control item-edit' title='Edit Item'><i class='fas fa-edit'></i></a>
-                <a class='item-control item-delete' title='Delete Item'><i class='fas fa-trash'></i></a>
+                <a class='item-control item-edit' title='{{localize 'CANDELAFVTT.itemEdit'}}'><i class='fas fa-edit'></i></a>
+                <a class='item-control item-delete' title='{{localize 'CANDELAFVTT.itemDelete'}}'><i class='fas fa-trash'></i></a>
             </div>
         </li>
     {{/each}}
