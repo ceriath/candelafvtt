@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 0.0.9
+
+[BETA Release]
+- fix gilded dice logic for unrated actions [#21](https://github.com/ceriath/candelafvtt/pull/21) (thanks [@apontious](https://github.com/apontious))
+- fix missing translations for various texts [#23](https://github.com/ceriath/candelafvtt/pull/23) (thanks [@ChemistryPolar](https://github.com/ChemistryPolar))
+- add option to add additional gilded dice to rolls [#21](https://github.com/ceriath/candelafvtt/pull/21) (thanks [@apontious](https://github.com/apontious))
+- add Portuguese translation [#23](https://github.com/ceriath/candelafvtt/pull/23) (thanks [@ChemistryPolar](https://github.com/ChemistryPolar))
+
 ## 0.0.8
 
 [BETA Release]
