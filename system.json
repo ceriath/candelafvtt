@@ -116,6 +116,12 @@
       "name": "Française",
       "path": "lang/fr.json",
       "flags": {}
+    },
+    {
+      "lang": "pt-br",
+      "name": "Português (Brasileiro)",
+      "path": "lang/pt-br.json",
+      "flags": {}
     }
   ],
   "compatibility": {

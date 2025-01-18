@@ -48,6 +48,21 @@
   "CANDELAFVTT.background": "Hintergrund",
   "CANDELAFVTT.illuminationKeys": "Schlüssel zur Erleuchtung",
 
+  "CANDELAFVTT.itemEquipped": "Equipped",
+  "CANDELAFVTT.itemName": "Name",
+  "CANDELAFVTT.itemCreate": "Create Item",
+  "CANDELAFVTT.itemEdit": "Edit Item",
+  "CANDELAFVTT.itemDelete": "Delete Item",
+  "CANDELAFVTT.itemDescription": "Description",
+  "CANDELAFVTT.itemAttributes": "Attributess",
+  "CANDELAFVTT.itemActionRatings": "Action Ratings",
+
+  "CANDELAFVTT.abilityAdd": "Add Ability",
+
+  "CANDELAFVTT.gearAdd": "Add Gear",
+
+  "CANDELAFVTT.illuminationKeyAdd": "Add Illumination Key",
+
   "CANDELAFVTT.abilities-description": "Wähle eine bei der Charaktererschaffung und eine weitere jedes Mal, wenn dein Kreis fortschreitet",
   "CANDELAFVTT.illumination-description": "Bei vollständiger Erleuchtung, setze sie zurück. Jeder übrig gebliebene Erleuchtungspunkt zählt für deinen nächsten Aufstiegszyklus. Wähle dann eine neue Kreis-Fähigkeit, und alle Spieler können ihre Charakter-Fortschrittsoptionen wählen. Die roten Kreise stellen Meilensteine dar, die mechanische Vorteile haben können, je nachdem, welche Fähigkeiten dein Kreis wählt.",
 

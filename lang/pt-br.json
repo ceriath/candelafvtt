@@ -1,0 +1,75 @@
+{
+    "CANDELAFVTT.nerve": "Vigor",
+    "CANDELAFVTT.move": "Mover",
+    "CANDELAFVTT.move-description": "correr, desviar, navegar",
+    "CANDELAFVTT.strike": "Atacar",
+    "CANDELAFVTT.strike-description": "golpear, quebrar, derrubar",
+    "CANDELAFVTT.control": "Controlar",
+    "CANDELAFVTT.control-description": "pilotar, atirar, manusear",
+    
+    "CANDELAFVTT.cunning": "Astúcia",
+    "CANDELAFVTT.sway": "Influenciar",
+    "CANDELAFVTT.sway-description": "convencer, comandar, atrair",
+    "CANDELAFVTT.read": "Ler",
+    "CANDELAFVTT.read-description": "interpretar linguagem corporal, detectar mentira, entender razão",
+    "CANDELAFVTT.hide": "Esconder",
+    "CANDELAFVTT.hide-description": "esgueirar, distrair, prestidigitar",
+    
+    "CANDELAFVTT.intuition": "Intuição",
+    "CANDELAFVTT.survey": "Avaliar",
+    "CANDELAFVTT.survey-description": "procurar, rastrear, detectar",
+    "CANDELAFVTT.focus": "Focar",
+    "CANDELAFVTT.focus-description": "inspecionar, analisar, lembrar",
+    "CANDELAFVTT.sense": "Sentir",
+    "CANDELAFVTT.sense-description": "sintonizar, canalizar, revelar",
+
+    "CANDELAFVTT.members": "Membros",
+
+    "CANDELAFVTT.stitch": "Curar",
+    "CANDELAFVTT.refresh": "Renovar",
+    "CANDELAFVTT.train": "Treinar",
+
+    "CANDELAFVTT.brain": "Mente",
+    "CANDELAFVTT.body": "Corpo",
+    "CANDELAFVTT.bleed": "Sangria",
+
+    "CANDELAFVTT.drives": "Motivações",
+    "CANDELAFVTT.resistances": "Resistencias",
+    "CANDELAFVTT.abilities": "Especialidades",
+    "CANDELAFVTT.illumination": "Iluminação",
+    "CANDELAFVTT.gear": "Equipamento",
+    "CANDELAFVTT.actions": "Ações",
+    "CANDELAFVTT.biography": "Biografia",
+    "CANDELAFVTT.marks": "Marcas",
+    "CANDELAFVTT.scars": "Cicatrizes",
+    "CANDELAFVTT.style": "Estilo",
+    "CANDELAFVTT.catalyst": "Estopim",
+    "CANDELAFVTT.question": "Pergunta",
+    "CANDELAFVTT.background": "Background",
+    "CANDELAFVTT.illuminationKeys": "Chaves de Iluminação",
+
+    "CANDELAFVTT.itemEquipped": "Equipado",
+    "CANDELAFVTT.itemName": "Nome",
+    "CANDELAFVTT.itemCreate": "Criar Item",
+    "CANDELAFVTT.itemEdit": "Editar Item",
+    "CANDELAFVTT.itemDelete": "Apagar Item",
+    "CANDELAFVTT.itemDescription": "Descrição",
+    "CANDELAFVTT.itemAttributes": "Atributos",
+    "CANDELAFVTT.itemActionRatings": "Valores de Ação",
+
+    "CANDELAFVTT.abilityAdd": "Adicionar Especialidade",
+
+    "CANDELAFVTT.gearAdd": "Adicionar Equipamento",
+
+    "CANDELAFVTT.illuminationKeyAdd": "Adicionar Chave de Iluminação",
+
+    "CANDELAFVTT.abilities-description": "Escolha um na criação de personagem e uma sempre que seu circulo avançar.",
+    "CANDELAFVTT.illumination-description": "Quando o contador de Iluminação estiver cheio, apague-o. QUalquer iluminação restante contará para seu próximo circulo de avanço. Em seguida, escolha uma nova habilidade de circulo, todos os jogadores podem escolher suas opções de avanço de personagem. Os circulos em negrito representam marcos, os quais podem beneficiar nas mecânicas, dependendo das habilidades que o circulo possui.",
+
+    "CANDELAFVTT.driveBonus": "Adicionar motivações",
+    "CANDELAFVTT.driveBonusDescription": "Adicione motivações adicionais de si ou dos seus colegas investigadores",
+    "CANDELAFVTT.roll": "Teste sua sorte!",
+
+    "CANDELAFVTT.errors-invalid-spec": "A especialidade escolhida não é compativel com seu papel!"
+
+}

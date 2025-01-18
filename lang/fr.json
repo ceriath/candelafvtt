@@ -48,6 +48,21 @@
     "CANDELAFVTT.background": "Antécédents",
     "CANDELAFVTT.illuminationKeys": "Points d’illumination",
 
+    "CANDELAFVTT.itemEquipped": "Equipped",
+    "CANDELAFVTT.itemName": "Name",
+    "CANDELAFVTT.itemCreate": "Create Item",
+    "CANDELAFVTT.itemEdit": "Edit Item",
+    "CANDELAFVTT.itemDelete": "Delete Item",
+    "CANDELAFVTT.itemDescription": "Description",
+    "CANDELAFVTT.itemAttributes": "Attributess",
+    "CANDELAFVTT.itemActionRatings": "Action Ratings",
+
+    "CANDELAFVTT.abilityAdd": "Add Ability",
+
+    "CANDELAFVTT.gearAdd": "Add Gear",
+
+    "CANDELAFVTT.illuminationKeyAdd": "Add Illumination Key",
+
     "CANDELAFVTT.abilities-description": "Choisissez-en un à la création de votre personnage et un à chaque fois que votre cercle progresse.",
     "CANDELAFVTT.illumination-description": "Lorsque la piste d'illumination est pleine, effacez-la. Toute Illumination restante compte pour votre prochain cycle d'avancement. Choisissez ensuite une nouvelle capacité de cercle, et tous les joueurs peuvent choisir les options d'avancement de leur personnage. Les cercles rouges représentent des étapes, qui peuvent avoir des avantages mécaniques en fonction des capacités choisies par votre cercle.",
 

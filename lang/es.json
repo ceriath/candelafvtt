@@ -48,6 +48,21 @@
     "CANDELAFVTT.background": "Trasfondo",
     "CANDELAFVTT.illuminationKeys": "Illumination Keys",
 
+    "CANDELAFVTT.itemEquipped": "Equipped",
+    "CANDELAFVTT.itemName": "Name",
+    "CANDELAFVTT.itemCreate": "Create Item",
+    "CANDELAFVTT.itemEdit": "Edit Item",
+    "CANDELAFVTT.itemDelete": "Delete Item",
+    "CANDELAFVTT.itemDescription": "Description",
+    "CANDELAFVTT.itemAttributes": "Attributess",
+    "CANDELAFVTT.itemActionRatings": "Action Ratings",
+
+    "CANDELAFVTT.abilityAdd": "Add Ability",
+
+    "CANDELAFVTT.gearAdd": "Add Gear",
+
+    "CANDELAFVTT.illuminationKeyAdd": "Add Illumination Key",
+
     "CANDELAFVTT.abilities-description": "Elige una durante la creación del personaje y otra cada vez que tu círculo avanza.",
     "CANDELAFVTT.illumination-description": "Cuando el registro de Iluminación está lleno, vacía el registro. Cualquier Iluminación sobrante cuenta para el siguiente ciclo de avance. Entonces elige una nueva habilidad de círculo y todos los jugadores pueden elegir sus opciones de avance de personaje. Los círculos rojos representan hitos, que pueden tener beneficios mecánicos dependiendo de las habilidades escogidas por tu círculo.",
 
