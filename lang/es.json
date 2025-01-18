@@ -68,6 +68,8 @@
 
     "CANDELAFVTT.driveBonus": "Añadir impulsos",
     "CANDELAFVTT.driveBonusDescription": "Añade impulsos adicionales (tuyos o de tus compañeros investigadores)",
+    "CANDELAFVTT.gildedDiceBonus": "Añadir dados dorados",
+    "CANDELAFVTT.gildedDiceDescription": "Añade dados dorados adicionales, por ejemplo, de Entrenamiento de resistencia.",
     "CANDELAFVTT.roll": "¡Prueba suerte!",
 
     "CANDELAFVTT.errors-invalid-spec": "¡La especialidad no es válida para el rol del personaje!"

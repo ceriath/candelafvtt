@@ -68,6 +68,8 @@
 
     "CANDELAFVTT.driveBonus": "Ajouter des pulsions",
     "CANDELAFVTT.driveBonusDescription": "Ajoutez les pulsions supplémentaires sur vous ou sur vos collègues enquêteurs",
+    "CANDELAFVTT.gildedDiceBonus": "Ajouter des dés dorés",
+    "CANDELAFVTT.gildedDiceDescription": "Ajoutez des dés dorés supplémentaires, par exemple issus de l'entraînement d'endurance",
     "CANDELAFVTT.roll": "Testez votre chance !",
 
     "CANDELAFVTT.errors-invalid-spec": "La spécialité sélectionnée n'est pas valide pour le rôle choisi !"

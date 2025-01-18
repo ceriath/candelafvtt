@@ -68,6 +68,8 @@
 
   "CANDELAFVTT.driveBonus": "Antriebe hinzufügen",
   "CANDELAFVTT.driveBonusDescription": "Füge zusätzliche Antriebe von dir oder deinen Mitspielern hinzu",
+  "CANDELAFVTT.gildedDiceBonus": "Vergoldete Würfel hinzufügen",
+  "CANDELAFVTT.gildedDiceDescription": "Zusätzliche vergoldete Würfel hinzufügen, beispielsweise vom Ausdauertraining",
   "CANDELAFVTT.roll": "Teste dein Glück!",
 
   "CANDELAFVTT.errors-invalid-spec": "Die gewählte Spezialisierung ist für die gewählte Rolle ungültig!"
