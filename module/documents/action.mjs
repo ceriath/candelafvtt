@@ -22,6 +22,7 @@ export class Action {
             const die = new Die({
                 number: normalDice,
                 faces: 6,
+                options: { flavor: normalDice == 1 ? game.i18n.localize(`CANDELAFVTT.oneDieRollFlavorLabel`) : game.i18n.format(`CANDELAFVTT.multipleDiceRollFlavorLabel`, {number: normalDice})},
                 modifiers: ['kh'],
             });
             dice = [die]
@@ -31,7 +32,7 @@ export class Action {
             const die = new Die({
                 number: gildedDice,
                 faces: 6,
-                options: { flavor: 'gilded' },
+                options: { flavor: gildedDice == 1 ? game.i18n.localize(`CANDELAFVTT.oneGildedDieRollFlavorLabel`) : game.i18n.format(`CANDELAFVTT.multipleGildedDiceRollFlavorLabel`, {number: gildedDice})},
                 modifiers: ['kh'],
             });
             if (dice.length > 0) {
@@ -42,13 +43,32 @@ export class Action {
         }
 
         if (!dice.length) {
-            // no dice, roll with disadvantage
-            const die = new Die({
-                number: 2,
-                faces: 6,
-                modifiers: ['kl'],
-            });
-            dice = [die]
+            if (action.gilded) {
+                // no dice, but still roll one gilded die, one regular die (yes, this is in the rules)
+                const gildedDie = new Die({
+                    number: 1,
+                    faces: 6,
+                    options: { flavor: game.i18n.localize(`CANDELAFVTT.noDiceGildedDieRollFlavorLabel`) }
+                });
+                dice = [gildedDie]
+                const plus = new OperatorTerm({ operator: '+' });
+                dice.push(plus)
+                const die = new Die({
+                    number: 1,
+                    faces: 6,
+                    options: { flavor: game.i18n.localize(`CANDELAFVTT.noDiceNormalDieRollFlavorLabel`) }
+                });
+                dice.push(die)
+            } else {
+                // no dice, roll with disadvantage
+                const die = new Die({
+                    number: 2,
+                    faces: 6,
+                    options: { flavor: game.i18n.localize(`CANDELAFVTT.noDiceRollFlavorLabel`) },
+                    modifiers: ['kl'],
+                });
+                dice = [die]
+            }
         }
 
         let r = Roll.fromTerms(dice);
