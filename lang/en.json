@@ -72,6 +72,13 @@
     "CANDELAFVTT.gildedDiceDescription": "Add additional gilded dice, for example from Stamina Training",
     "CANDELAFVTT.roll": "Test your luck!",
 
-    "CANDELAFVTT.errors-invalid-spec": "The selected specialty is invalid for your selected role!"
-
+    "CANDELAFVTT.errors-invalid-spec": "The selected specialty is invalid for your selected role!",
+    
+    "CANDELAFVTT.oneDieRollFlavorLabel": "1 Die",
+    "CANDELAFVTT.multipleDiceRollFlavorLabel": "Best of {number} Dice",
+    "CANDELAFVTT.oneGildedDieRollFlavorLabel": "1 Gilded Die",
+    "CANDELAFVTT.multipleGildedDiceRollFlavorLabel": "Best of {number} Gilded Dice",
+    "CANDELAFVTT.noDiceRollFlavorLabel": "No Dice (Take Lower)",
+    "CANDELAFVTT.noDiceNormalDieRollFlavorLabel": "No Dice (Take Lower)",
+    "CANDELAFVTT.noDiceGildedDieRollFlavorLabel": "No Dice, Gilded (Take Lower)"
 }

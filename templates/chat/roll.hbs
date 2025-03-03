@@ -1,13 +1,11 @@
 <div class='candelafvtt dice-roll'>
     <div class='dice-result'>
-        <div class='dice-formula'>{{formula}}</div>
         <div class='dice-tooltip expanded'>
             {{#each dice as |die|}}
                 <section class='tooltip-part'>
                     <div class='dice'>
                         <header class='part-header flexrow'>
-                            <span class='part-formula'>{{die.formula}}</span>
-                            {{#if die.flavor}}<span class='part-flavor'>{{die.flavor}}</span>{{/if}}
+                            <span class='part-formula'>{{die.flavor}}</span>
                             <span class='part-total'>{{die.total}}</span>
                         </header>
                         <ol class='dice-rolls'>
