@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 0.0.10
+
+[BETA Release]
+- restyle chat messages [#24](https://github.com/ceriath/candelafvtt/pull/24) (thanks [@apontious](https://github.com/apontious))
+
 ## 0.0.9
 
 [BETA Release]

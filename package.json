@@ -1,6 +1,6 @@
 {
   "name": "candelafvtt",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "CSS compiler for the Candela FVTT system",
   "scripts": {
     "build": "gulp build",
