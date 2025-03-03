@@ -72,6 +72,14 @@
   "CANDELAFVTT.gildedDiceDescription": "Zusätzliche vergoldete Würfel hinzufügen, beispielsweise vom Ausdauertraining",
   "CANDELAFVTT.roll": "Teste dein Glück!",
 
-  "CANDELAFVTT.errors-invalid-spec": "Die gewählte Spezialisierung ist für die gewählte Rolle ungültig!"
+  "CANDELAFVTT.errors-invalid-spec": "Die gewählte Spezialisierung ist für die gewählte Rolle ungültig!",
+
+  "CANDELAFVTT.oneDieRollFlavorLabel": "1 Würfel",
+  "CANDELAFVTT.multipleDiceRollFlavorLabel": "Bester Würfel aus {number}",
+  "CANDELAFVTT.oneGildedDieRollFlavorLabel": "1 vergoldeter Würfel",
+  "CANDELAFVTT.multipleGildedDiceRollFlavorLabel": "Bester vergoldeter Würfel aus {number}",
+  "CANDELAFVTT.noDiceRollFlavorLabel": "Keine Würfel (niedrigerer Wurf)",
+  "CANDELAFVTT.noDiceNormalDieRollFlavorLabel": "Keine Würfel (niedrigerer Wurf)",
+  "CANDELAFVTT.noDiceGildedDieRollFlavorLabel": "Keine Würfel, vergoldet (niedrigerer Wurf)"
 
 }
